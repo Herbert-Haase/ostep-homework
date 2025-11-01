@@ -1,0 +1,45 @@
+
+ARG seed 1
+ARG address space size 1k
+ARG phys mem size 16k
+
+Base-and-Bounds register information:
+
+  Base   : 0x00003f9c (decimal 16284)
+  Limit  : 100
+
+Virtual Address Trace
+  VA  0: 0x00000089 (decimal:  137) --> PA or segmentation violation?
+  VA  1: 0x00000363 (decimal:  867) --> PA or segmentation violation?
+  VA  2: 0x0000030e (decimal:  782) --> PA or segmentation violation?
+  VA  3: 0x00000105 (decimal:  261) --> PA or segmentation violation?
+  VA  4: 0x000001fb (decimal:  507) --> PA or segmentation violation?
+  VA  5: 0x000001cc (decimal:  460) --> PA or segmentation violation?
+  VA  6: 0x0000029b (decimal:  667) --> PA or segmentation violation?
+  VA  7: 0x00000327 (decimal:  807) --> PA or segmentation violation?
+  VA  8: 0x00000060 (decimal:   96) --> PA or segmentation violation?
+  VA  9: 0x0000001d (decimal:   29) --> PA or segmentation violation?
+
+For each virtual address, either write down the physical address it translates to
+OR write down that it is an out-of-bounds address (a segmentation violation). For
+this problem, you should assume a simple virtual address space of a given size.
+
+
+ARG seed 1
+ARG address space size 16k
+ARG phys mem size 64k
+
+Base-and-Bounds register information:
+
+  Base   : 0x0000c000 (decimal 49152)
+  Limit  : 16384
+
+Virtual Address Trace
+  VA  0: 0x00000899 (decimal: 2201) --> PA or segmentation violation?
+  VA  1: 0x0000363c (decimal: 13884) --> PA or segmentation violation?
+  VA  2: 0x000030e1 (decimal: 12513) --> PA or segmentation violation?
+
+For each virtual address, either write down the physical address it translates to
+OR write down that it is an out-of-bounds address (a segmentation violation). For
+this problem, you should assume a simple virtual address space of a given size.
+
