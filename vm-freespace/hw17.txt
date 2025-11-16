@@ -1,0 +1,88 @@
+└── ❯ ./malloc.py -S 100 -b 1000 -H 4 -a 4 -l ADDRSORT -p BEST -n 5 
+seed 0
+size 100
+baseAddr 1000
+headerSize 4
+alignment 4
+policy BEST
+listOrder ADDRSORT
+coalesce False
+numOps 5
+range 10
+percentAlloc 50
+allocList 
+compute False
+
+ptr[0] = Alloc(3) returned 1004
+List?  size=1[1008,92]
+
+Free(ptr[0])
+returned 0
+List? size=2[1000,8],[1008,92]
+
+ptr[1] = Alloc(5) returned 1012
+List? size=2[1000,8],[1020,80]
+
+
+Free(ptr[1])
+returned 0
+List? size=3[1000,8],[1012,12],[1020,80]
+
+
+ptr[2] = Alloc(8) returned 1024
+List? size=3[1000,8],[1012,12],[1032,68]
+
+
+
+
+
+
+
+seed 0
+size 100
+baseAddr 1000
+headerSize 0
+alignment -1
+policy BEST
+listOrder ADDRSORT
+coalesce False
+numOps 10
+range 10
+percentAlloc 50
+allocList 
+compute False
+
+ptr[0] = Alloc(3) returned 1000
+List? size=1[1003,sz=97]
+
+Free(ptr[0])
+returned 0
+List? size=2[1000,sz=3],[1003,sz=97]
+
+ptr[1] = Alloc(5) returned 1003
+List? size=2[1000,sz=3],[1008,sz=92]
+
+Free(ptr[1])
+returned 0
+List? size=3[1000,sz=3],[1003,sz=5],[1008,sz=92]
+
+ptr[2] = Alloc(8) returned 1008
+List? size=3[1000,sz=3],[1003,sz=5],[1016,sz=84]
+
+Free(ptr[2])
+returned 0
+List? size=4[1000,sz=3],[1003,sz=5],[1008,sz=8],[1016,sz=84]
+
+ptr[3] = Alloc(8) returned 1008
+List? size=3[1000,sz=3],[1003,sz=5],[1016,sz=84]
+
+Free(ptr[3])
+returned 0
+List? size=4[1000,sz=3],[1003,sz=5],[1008,sz=8],[1016,sz=84]
+
+ptr[4] = Alloc(2) returned ?
+List? 
+
+ptr[5] = Alloc(7) returned ?
+List? 
+
