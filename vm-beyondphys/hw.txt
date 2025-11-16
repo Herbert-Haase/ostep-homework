@@ -1,0 +1,937 @@
+allocating 4194304000 bytes (4000.00 MB)
+  number of integers in array: 1048576000
+loop 0 in 1740.22 ms (bandwidth: 2298.56 MB/s)
+loop 1 in 818.31 ms (bandwidth: 4888.12 MB/s)
+loop 2 in 797.08 ms (bandwidth: 5018.35 MB/s)
+loop 3 in 798.60 ms (bandwidth: 5008.79 MB/s)
+loop 4 in 800.83 ms (bandwidth: 4994.82 MB/s)
+loop 5 in 800.20 ms (bandwidth: 4998.75 MB/s)
+loop 6 in 802.05 ms (bandwidth: 4987.20 MB/s)
+loop 7 in 802.02 ms (bandwidth: 4987.42 MB/s)
+loop 8 in 800.77 ms (bandwidth: 4995.18 MB/s)
+loop 9 in 799.07 ms (bandwidth: 5005.80 MB/s)
+loop 10 in 799.33 ms (bandwidth: 5004.17 MB/s)
+loop 11 in 800.85 ms (bandwidth: 4994.67 MB/s)
+loop 12 in 795.53 ms (bandwidth: 5028.08 MB/s)
+loop 13 in 799.43 ms (bandwidth: 5003.59 MB/s)
+loop 14 in 800.65 ms (bandwidth: 4995.96 MB/s)
+loop 15 in 801.42 ms (bandwidth: 4991.15 MB/s)
+loop 16 in 802.86 ms (bandwidth: 4982.17 MB/s)
+loop 17 in 796.83 ms (bandwidth: 5019.90 MB/s)
+loop 18 in 798.55 ms (bandwidth: 5009.10 MB/s)
+loop 19 in 797.80 ms (bandwidth: 5013.82 MB/s)
+loop 20 in 795.63 ms (bandwidth: 5027.46 MB/s)
+loop 21 in 798.21 ms (bandwidth: 5011.24 MB/s)
+loop 22 in 798.18 ms (bandwidth: 5011.38 MB/s)
+loop 23 in 798.33 ms (bandwidth: 5010.43 MB/s)
+loop 24 in 798.19 ms (bandwidth: 5011.34 MB/s)
+loop 25 in 800.49 ms (bandwidth: 4996.91 MB/s)
+loop 26 in 802.51 ms (bandwidth: 4984.34 MB/s)
+loop 27 in 799.04 ms (bandwidth: 5005.98 MB/s)
+loop 28 in 798.67 ms (bandwidth: 5008.35 MB/s)
+loop 29 in 798.62 ms (bandwidth: 5008.63 MB/s)
+loop 30 in 799.63 ms (bandwidth: 5002.34 MB/s)
+loop 31 in 803.13 ms (bandwidth: 4980.52 MB/s)
+loop 32 in 797.19 ms (bandwidth: 5017.65 MB/s)
+loop 33 in 803.50 ms (bandwidth: 4978.23 MB/s)
+loop 34 in 798.66 ms (bandwidth: 5008.41 MB/s)
+loop 35 in 798.32 ms (bandwidth: 5010.52 MB/s)
+loop 36 in 803.02 ms (bandwidth: 4981.23 MB/s)
+loop 37 in 800.19 ms (bandwidth: 4998.81 MB/s)
+loop 38 in 801.28 ms (bandwidth: 4991.99 MB/s)
+loop 39 in 804.22 ms (bandwidth: 4973.76 MB/s)
+loop 40 in 796.79 ms (bandwidth: 5020.14 MB/s)
+loop 41 in 885.14 ms (bandwidth: 4519.07 MB/s)
+loop 42 in 807.35 ms (bandwidth: 4954.48 MB/s)
+loop 43 in 804.13 ms (bandwidth: 4974.31 MB/s)
+loop 44 in 796.95 ms (bandwidth: 5019.15 MB/s)
+loop 45 in 800.48 ms (bandwidth: 4996.99 MB/s)
+loop 46 in 802.51 ms (bandwidth: 4984.36 MB/s)
+loop 47 in 807.80 ms (bandwidth: 4951.75 MB/s)
+loop 48 in 811.13 ms (bandwidth: 4931.42 MB/s)
+loop 49 in 816.75 ms (bandwidth: 4897.48 MB/s)
+loop 50 in 799.27 ms (bandwidth: 5004.54 MB/s)
+loop 51 in 801.98 ms (bandwidth: 4987.64 MB/s)
+loop 52 in 798.58 ms (bandwidth: 5008.87 MB/s)
+loop 53 in 802.31 ms (bandwidth: 4985.62 MB/s)
+loop 54 in 799.06 ms (bandwidth: 5005.86 MB/s)
+loop 55 in 798.24 ms (bandwidth: 5011.02 MB/s)
+loop 56 in 803.09 ms (bandwidth: 4980.76 MB/s)
+loop 57 in 799.58 ms (bandwidth: 5002.65 MB/s)
+loop 58 in 800.69 ms (bandwidth: 4995.71 MB/s)
+loop 59 in 799.80 ms (bandwidth: 5001.26 MB/s)
+loop 60 in 800.85 ms (bandwidth: 4994.66 MB/s)
+loop 61 in 801.15 ms (bandwidth: 4992.80 MB/s)
+loop 62 in 788.16 ms (bandwidth: 5075.10 MB/s)
+loop 63 in 790.85 ms (bandwidth: 5057.85 MB/s)
+loop 64 in 790.47 ms (bandwidth: 5060.31 MB/s)
+loop 65 in 794.21 ms (bandwidth: 5036.44 MB/s)
+loop 66 in 787.13 ms (bandwidth: 5081.77 MB/s)
+loop 67 in 788.18 ms (bandwidth: 5075.01 MB/s)
+loop 68 in 793.94 ms (bandwidth: 5038.16 MB/s)
+loop 69 in 793.81 ms (bandwidth: 5039.01 MB/s)
+loop 70 in 786.17 ms (bandwidth: 5087.94 MB/s)
+loop 71 in 792.03 ms (bandwidth: 5050.33 MB/s)
+loop 72 in 788.00 ms (bandwidth: 5076.12 MB/s)
+loop 73 in 794.11 ms (bandwidth: 5037.10 MB/s)
+loop 74 in 792.86 ms (bandwidth: 5045.05 MB/s)
+loop 75 in 788.06 ms (bandwidth: 5075.77 MB/s)
+loop 76 in 800.84 ms (bandwidth: 4994.74 MB/s)
+loop 77 in 797.11 ms (bandwidth: 5018.15 MB/s)
+loop 78 in 799.72 ms (bandwidth: 5001.73 MB/s)
+loop 79 in 799.83 ms (bandwidth: 5001.07 MB/s)
+loop 80 in 800.58 ms (bandwidth: 4996.35 MB/s)
+loop 81 in 801.37 ms (bandwidth: 4991.43 MB/s)
+loop 82 in 811.59 ms (bandwidth: 4928.57 MB/s)
+loop 83 in 801.06 ms (bandwidth: 4993.40 MB/s)
+loop 84 in 797.39 ms (bandwidth: 5016.34 MB/s)
+loop 85 in 802.07 ms (bandwidth: 4987.11 MB/s)
+loop 86 in 802.49 ms (bandwidth: 4984.50 MB/s)
+loop 87 in 797.14 ms (bandwidth: 5017.94 MB/s)
+loop 88 in 801.53 ms (bandwidth: 4990.44 MB/s)
+loop 89 in 803.29 ms (bandwidth: 4979.50 MB/s)
+loop 90 in 806.34 ms (bandwidth: 4960.71 MB/s)
+loop 91 in 797.26 ms (bandwidth: 5017.21 MB/s)
+loop 92 in 798.97 ms (bandwidth: 5006.43 MB/s)
+loop 93 in 798.70 ms (bandwidth: 5008.15 MB/s)
+loop 94 in 802.04 ms (bandwidth: 4987.30 MB/s)
+loop 95 in 798.64 ms (bandwidth: 5008.52 MB/s)
+loop 96 in 795.34 ms (bandwidth: 5029.30 MB/s)
+loop 97 in 796.21 ms (bandwidth: 5023.82 MB/s)
+loop 98 in 799.61 ms (bandwidth: 5002.46 MB/s)
+loop 99 in 803.01 ms (bandwidth: 4981.23 MB/s)
+loop 100 in 797.34 ms (bandwidth: 5016.66 MB/s)
+loop 101 in 798.18 ms (bandwidth: 5011.40 MB/s)
+loop 102 in 798.50 ms (bandwidth: 5009.37 MB/s)
+loop 103 in 801.32 ms (bandwidth: 4991.79 MB/s)
+loop 104 in 800.83 ms (bandwidth: 4994.84 MB/s)
+loop 105 in 800.08 ms (bandwidth: 4999.52 MB/s)
+loop 106 in 798.04 ms (bandwidth: 5012.28 MB/s)
+loop 107 in 797.67 ms (bandwidth: 5014.59 MB/s)
+loop 108 in 800.34 ms (bandwidth: 4997.85 MB/s)
+loop 109 in 800.64 ms (bandwidth: 4996.02 MB/s)
+loop 110 in 800.77 ms (bandwidth: 4995.19 MB/s)
+loop 111 in 801.79 ms (bandwidth: 4988.81 MB/s)
+loop 112 in 798.04 ms (bandwidth: 5012.25 MB/s)
+loop 113 in 798.19 ms (bandwidth: 5011.36 MB/s)
+loop 114 in 801.88 ms (bandwidth: 4988.29 MB/s)
+loop 115 in 801.28 ms (bandwidth: 4992.01 MB/s)
+loop 116 in 829.07 ms (bandwidth: 4824.69 MB/s)
+loop 117 in 796.00 ms (bandwidth: 5025.13 MB/s)
+loop 118 in 802.61 ms (bandwidth: 4983.75 MB/s)
+loop 119 in 800.79 ms (bandwidth: 4995.07 MB/s)
+loop 120 in 800.77 ms (bandwidth: 4995.21 MB/s)
+loop 121 in 796.38 ms (bandwidth: 5022.76 MB/s)
+loop 122 in 796.85 ms (bandwidth: 5019.79 MB/s)
+loop 123 in 803.45 ms (bandwidth: 4978.54 MB/s)
+loop 124 in 810.82 ms (bandwidth: 4933.27 MB/s)
+loop 125 in 797.84 ms (bandwidth: 5013.56 MB/s)
+loop 126 in 795.39 ms (bandwidth: 5028.97 MB/s)
+loop 127 in 795.68 ms (bandwidth: 5027.13 MB/s)
+loop 128 in 795.05 ms (bandwidth: 5031.14 MB/s)
+loop 129 in 795.99 ms (bandwidth: 5025.18 MB/s)
+loop 130 in 798.00 ms (bandwidth: 5012.52 MB/s)
+loop 131 in 803.75 ms (bandwidth: 4976.68 MB/s)
+loop 132 in 792.97 ms (bandwidth: 5044.32 MB/s)
+loop 133 in 794.14 ms (bandwidth: 5036.92 MB/s)
+loop 134 in 796.23 ms (bandwidth: 5023.69 MB/s)
+loop 135 in 797.93 ms (bandwidth: 5013.00 MB/s)
+loop 136 in 793.95 ms (bandwidth: 5038.12 MB/s)
+loop 137 in 784.80 ms (bandwidth: 5096.81 MB/s)
+loop 138 in 786.40 ms (bandwidth: 5086.50 MB/s)
+loop 139 in 793.82 ms (bandwidth: 5038.91 MB/s)
+loop 140 in 791.84 ms (bandwidth: 5051.56 MB/s)
+loop 141 in 792.01 ms (bandwidth: 5050.45 MB/s)
+loop 142 in 788.11 ms (bandwidth: 5075.42 MB/s)
+loop 143 in 787.93 ms (bandwidth: 5076.58 MB/s)
+loop 144 in 785.64 ms (bandwidth: 5091.37 MB/s)
+loop 145 in 789.41 ms (bandwidth: 5067.08 MB/s)
+loop 146 in 788.12 ms (bandwidth: 5075.40 MB/s)
+loop 147 in 787.58 ms (bandwidth: 5078.87 MB/s)
+loop 148 in 789.17 ms (bandwidth: 5068.59 MB/s)
+loop 149 in 788.91 ms (bandwidth: 5070.31 MB/s)
+loop 150 in 786.91 ms (bandwidth: 5083.17 MB/s)
+loop 151 in 795.16 ms (bandwidth: 5030.43 MB/s)
+loop 152 in 794.32 ms (bandwidth: 5035.74 MB/s)
+loop 153 in 795.53 ms (bandwidth: 5028.08 MB/s)
+loop 154 in 797.43 ms (bandwidth: 5016.14 MB/s)
+loop 155 in 797.68 ms (bandwidth: 5014.56 MB/s)
+loop 156 in 796.96 ms (bandwidth: 5019.06 MB/s)
+loop 157 in 794.65 ms (bandwidth: 5033.64 MB/s)
+loop 158 in 796.71 ms (bandwidth: 5020.66 MB/s)
+loop 159 in 799.54 ms (bandwidth: 5002.88 MB/s)
+loop 160 in 799.28 ms (bandwidth: 5004.48 MB/s)
+loop 161 in 799.97 ms (bandwidth: 5000.17 MB/s)
+loop 162 in 796.69 ms (bandwidth: 5020.76 MB/s)
+loop 163 in 798.13 ms (bandwidth: 5011.72 MB/s)
+loop 164 in 799.22 ms (bandwidth: 5004.91 MB/s)
+loop 165 in 798.84 ms (bandwidth: 5007.24 MB/s)
+loop 166 in 796.76 ms (bandwidth: 5020.31 MB/s)
+loop 167 in 798.24 ms (bandwidth: 5010.99 MB/s)
+loop 168 in 798.25 ms (bandwidth: 5010.96 MB/s)
+loop 169 in 795.88 ms (bandwidth: 5025.90 MB/s)
+loop 170 in 796.65 ms (bandwidth: 5021.05 MB/s)
+loop 171 in 816.14 ms (bandwidth: 4901.14 MB/s)
+loop 172 in 802.80 ms (bandwidth: 4982.57 MB/s)
+loop 173 in 798.18 ms (bandwidth: 5011.37 MB/s)
+loop 174 in 799.66 ms (bandwidth: 5002.15 MB/s)
+loop 175 in 796.15 ms (bandwidth: 5024.18 MB/s)
+loop 176 in 795.53 ms (bandwidth: 5028.07 MB/s)
+loop 177 in 799.26 ms (bandwidth: 5004.64 MB/s)
+loop 178 in 799.67 ms (bandwidth: 5002.04 MB/s)
+loop 179 in 799.96 ms (bandwidth: 5000.23 MB/s)
+loop 180 in 797.89 ms (bandwidth: 5013.23 MB/s)
+loop 181 in 796.86 ms (bandwidth: 5019.72 MB/s)
+loop 182 in 797.57 ms (bandwidth: 5015.23 MB/s)
+loop 183 in 798.65 ms (bandwidth: 5008.43 MB/s)
+loop 184 in 797.01 ms (bandwidth: 5018.74 MB/s)
+loop 185 in 798.90 ms (bandwidth: 5006.89 MB/s)
+loop 186 in 802.41 ms (bandwidth: 4985.00 MB/s)
+loop 187 in 796.56 ms (bandwidth: 5021.60 MB/s)
+loop 188 in 800.42 ms (bandwidth: 4997.36 MB/s)
+loop 189 in 800.75 ms (bandwidth: 4995.32 MB/s)
+loop 190 in 801.05 ms (bandwidth: 4993.43 MB/s)
+loop 191 in 795.36 ms (bandwidth: 5029.15 MB/s)
+loop 192 in 795.53 ms (bandwidth: 5028.11 MB/s)
+loop 193 in 797.32 ms (bandwidth: 5016.82 MB/s)
+loop 194 in 797.13 ms (bandwidth: 5018.00 MB/s)
+loop 195 in 800.00 ms (bandwidth: 4999.97 MB/s)
+loop 196 in 797.35 ms (bandwidth: 5016.60 MB/s)
+loop 197 in 793.90 ms (bandwidth: 5038.41 MB/s)
+loop 198 in 793.24 ms (bandwidth: 5042.59 MB/s)
+loop 199 in 798.77 ms (bandwidth: 5007.70 MB/s)
+loop 200 in 795.51 ms (bandwidth: 5028.23 MB/s)
+loop 201 in 799.40 ms (bandwidth: 5003.75 MB/s)
+loop 202 in 797.72 ms (bandwidth: 5014.26 MB/s)
+loop 203 in 795.35 ms (bandwidth: 5029.23 MB/s)
+loop 204 in 799.97 ms (bandwidth: 5000.19 MB/s)
+loop 205 in 797.20 ms (bandwidth: 5017.56 MB/s)
+loop 206 in 800.94 ms (bandwidth: 4994.16 MB/s)
+loop 207 in 798.55 ms (bandwidth: 5009.10 MB/s)
+loop 208 in 797.02 ms (bandwidth: 5018.72 MB/s)
+loop 209 in 797.64 ms (bandwidth: 5014.79 MB/s)
+loop 210 in 806.13 ms (bandwidth: 4961.97 MB/s)
+loop 211 in 795.40 ms (bandwidth: 5028.90 MB/s)
+loop 212 in 799.54 ms (bandwidth: 5002.91 MB/s)
+loop 213 in 792.34 ms (bandwidth: 5048.33 MB/s)
+loop 214 in 792.72 ms (bandwidth: 5045.91 MB/s)
+loop 215 in 789.95 ms (bandwidth: 5063.64 MB/s)
+loop 216 in 846.25 ms (bandwidth: 4726.74 MB/s)
+loop 217 in 789.03 ms (bandwidth: 5069.53 MB/s)
+loop 218 in 787.86 ms (bandwidth: 5077.05 MB/s)
+loop 219 in 787.80 ms (bandwidth: 5077.43 MB/s)
+loop 220 in 786.98 ms (bandwidth: 5082.73 MB/s)
+loop 221 in 789.44 ms (bandwidth: 5066.90 MB/s)
+loop 222 in 787.16 ms (bandwidth: 5081.57 MB/s)
+loop 223 in 787.19 ms (bandwidth: 5081.35 MB/s)
+loop 224 in 788.33 ms (bandwidth: 5074.02 MB/s)
+loop 225 in 788.43 ms (bandwidth: 5073.40 MB/s)
+loop 226 in 787.60 ms (bandwidth: 5078.71 MB/s)
+loop 227 in 800.60 ms (bandwidth: 4996.23 MB/s)
+loop 228 in 795.95 ms (bandwidth: 5025.44 MB/s)
+loop 229 in 800.83 ms (bandwidth: 4994.79 MB/s)
+loop 230 in 795.47 ms (bandwidth: 5028.50 MB/s)
+loop 231 in 797.19 ms (bandwidth: 5017.62 MB/s)
+loop 232 in 797.10 ms (bandwidth: 5018.20 MB/s)
+loop 233 in 797.88 ms (bandwidth: 5013.26 MB/s)
+loop 234 in 796.81 ms (bandwidth: 5020.00 MB/s)
+loop 235 in 793.25 ms (bandwidth: 5042.57 MB/s)
+loop 236 in 796.32 ms (bandwidth: 5023.12 MB/s)
+loop 237 in 800.33 ms (bandwidth: 4997.96 MB/s)
+loop 238 in 795.57 ms (bandwidth: 5027.86 MB/s)
+loop 239 in 797.15 ms (bandwidth: 5017.85 MB/s)
+loop 240 in 800.31 ms (bandwidth: 4998.05 MB/s)
+loop 241 in 799.76 ms (bandwidth: 5001.52 MB/s)
+loop 242 in 797.59 ms (bandwidth: 5015.13 MB/s)
+loop 243 in 801.36 ms (bandwidth: 4991.51 MB/s)
+loop 244 in 797.60 ms (bandwidth: 5015.03 MB/s)
+loop 245 in 794.82 ms (bandwidth: 5032.60 MB/s)
+loop 246 in 796.61 ms (bandwidth: 5021.26 MB/s)
+loop 247 in 797.74 ms (bandwidth: 5014.13 MB/s)
+loop 248 in 795.95 ms (bandwidth: 5025.42 MB/s)
+loop 249 in 795.72 ms (bandwidth: 5026.89 MB/s)
+loop 250 in 797.48 ms (bandwidth: 5015.77 MB/s)
+loop 251 in 793.36 ms (bandwidth: 5041.85 MB/s)
+loop 252 in 794.96 ms (bandwidth: 5031.71 MB/s)
+loop 253 in 795.34 ms (bandwidth: 5029.28 MB/s)
+loop 254 in 796.12 ms (bandwidth: 5024.37 MB/s)
+loop 255 in 798.95 ms (bandwidth: 5006.54 MB/s)
+loop 256 in 796.77 ms (bandwidth: 5020.26 MB/s)
+loop 257 in 798.93 ms (bandwidth: 5006.71 MB/s)
+loop 258 in 798.54 ms (bandwidth: 5009.16 MB/s)
+loop 259 in 794.52 ms (bandwidth: 5034.52 MB/s)
+loop 260 in 793.60 ms (bandwidth: 5040.30 MB/s)
+loop 261 in 800.60 ms (bandwidth: 4996.28 MB/s)
+loop 262 in 804.90 ms (bandwidth: 4969.58 MB/s)
+loop 263 in 801.26 ms (bandwidth: 4992.13 MB/s)
+loop 264 in 799.33 ms (bandwidth: 5004.22 MB/s)
+loop 265 in 796.54 ms (bandwidth: 5021.71 MB/s)
+loop 266 in 802.10 ms (bandwidth: 4986.93 MB/s)
+loop 267 in 799.61 ms (bandwidth: 5002.45 MB/s)
+loop 268 in 795.33 ms (bandwidth: 5029.38 MB/s)
+loop 269 in 810.71 ms (bandwidth: 4933.94 MB/s)
+loop 270 in 794.71 ms (bandwidth: 5033.27 MB/s)
+loop 271 in 794.52 ms (bandwidth: 5034.47 MB/s)
+loop 272 in 794.87 ms (bandwidth: 5032.29 MB/s)
+loop 273 in 797.80 ms (bandwidth: 5013.81 MB/s)
+loop 274 in 796.22 ms (bandwidth: 5023.74 MB/s)
+loop 275 in 800.52 ms (bandwidth: 4996.76 MB/s)
+loop 276 in 801.49 ms (bandwidth: 4990.71 MB/s)
+loop 277 in 794.68 ms (bandwidth: 5033.49 MB/s)
+loop 278 in 795.91 ms (bandwidth: 5025.69 MB/s)
+loop 279 in 799.08 ms (bandwidth: 5005.76 MB/s)
+loop 280 in 796.86 ms (bandwidth: 5019.73 MB/s)
+loop 281 in 798.71 ms (bandwidth: 5008.11 MB/s)
+loop 282 in 799.21 ms (bandwidth: 5004.92 MB/s)
+loop 283 in 801.53 ms (bandwidth: 4990.47 MB/s)
+loop 284 in 801.80 ms (bandwidth: 4988.75 MB/s)
+loop 285 in 796.58 ms (bandwidth: 5021.44 MB/s)
+loop 286 in 797.69 ms (bandwidth: 5014.47 MB/s)
+loop 287 in 796.56 ms (bandwidth: 5021.59 MB/s)
+loop 288 in 794.35 ms (bandwidth: 5035.54 MB/s)
+loop 289 in 788.30 ms (bandwidth: 5074.23 MB/s)
+loop 290 in 784.72 ms (bandwidth: 5097.36 MB/s)
+loop 291 in 785.65 ms (bandwidth: 5091.32 MB/s)
+loop 292 in 788.21 ms (bandwidth: 5074.78 MB/s)
+loop 293 in 788.73 ms (bandwidth: 5071.42 MB/s)
+loop 294 in 792.57 ms (bandwidth: 5046.84 MB/s)
+loop 295 in 787.77 ms (bandwidth: 5077.62 MB/s)
+loop 296 in 788.12 ms (bandwidth: 5075.34 MB/s)
+loop 297 in 788.65 ms (bandwidth: 5071.97 MB/s)
+loop 298 in 789.00 ms (bandwidth: 5069.72 MB/s)
+loop 299 in 788.19 ms (bandwidth: 5074.89 MB/s)
+loop 300 in 789.84 ms (bandwidth: 5064.28 MB/s)
+loop 301 in 785.57 ms (bandwidth: 5091.85 MB/s)
+loop 302 in 794.55 ms (bandwidth: 5034.32 MB/s)
+loop 303 in 796.18 ms (bandwidth: 5024.02 MB/s)
+loop 304 in 793.55 ms (bandwidth: 5040.62 MB/s)
+loop 305 in 800.47 ms (bandwidth: 4997.05 MB/s)
+loop 306 in 799.50 ms (bandwidth: 5003.13 MB/s)
+loop 307 in 803.07 ms (bandwidth: 4980.90 MB/s)
+loop 308 in 797.87 ms (bandwidth: 5013.35 MB/s)
+loop 309 in 799.24 ms (bandwidth: 5004.77 MB/s)
+loop 310 in 800.26 ms (bandwidth: 4998.41 MB/s)
+loop 311 in 795.27 ms (bandwidth: 5029.73 MB/s)
+loop 312 in 795.84 ms (bandwidth: 5026.13 MB/s)
+loop 313 in 799.78 ms (bandwidth: 5001.40 MB/s)
+loop 314 in 799.67 ms (bandwidth: 5002.04 MB/s)
+loop 315 in 796.77 ms (bandwidth: 5020.28 MB/s)
+loop 316 in 797.78 ms (bandwidth: 5013.94 MB/s)
+loop 317 in 797.78 ms (bandwidth: 5013.90 MB/s)
+loop 318 in 797.22 ms (bandwidth: 5017.45 MB/s)
+loop 319 in 797.67 ms (bandwidth: 5014.58 MB/s)
+loop 320 in 800.52 ms (bandwidth: 4996.75 MB/s)
+loop 321 in 799.63 ms (bandwidth: 5002.32 MB/s)
+loop 322 in 803.06 ms (bandwidth: 4980.96 MB/s)
+loop 323 in 795.79 ms (bandwidth: 5026.43 MB/s)
+loop 324 in 797.56 ms (bandwidth: 5015.30 MB/s)
+loop 325 in 799.82 ms (bandwidth: 5001.16 MB/s)
+loop 326 in 794.40 ms (bandwidth: 5035.26 MB/s)
+loop 327 in 797.42 ms (bandwidth: 5016.20 MB/s)
+loop 328 in 796.67 ms (bandwidth: 5020.89 MB/s)
+loop 329 in 796.92 ms (bandwidth: 5019.36 MB/s)
+loop 330 in 795.71 ms (bandwidth: 5026.98 MB/s)
+loop 331 in 796.38 ms (bandwidth: 5022.72 MB/s)
+loop 332 in 799.83 ms (bandwidth: 5001.06 MB/s)
+loop 333 in 797.35 ms (bandwidth: 5016.59 MB/s)
+loop 334 in 798.03 ms (bandwidth: 5012.34 MB/s)
+loop 335 in 798.91 ms (bandwidth: 5006.83 MB/s)
+loop 336 in 799.85 ms (bandwidth: 5000.96 MB/s)
+loop 337 in 801.42 ms (bandwidth: 4991.16 MB/s)
+loop 338 in 801.29 ms (bandwidth: 4991.98 MB/s)
+loop 339 in 796.35 ms (bandwidth: 5022.94 MB/s)
+loop 340 in 796.10 ms (bandwidth: 5024.49 MB/s)
+loop 341 in 799.82 ms (bandwidth: 5001.11 MB/s)
+loop 342 in 800.42 ms (bandwidth: 4997.36 MB/s)
+loop 343 in 797.92 ms (bandwidth: 5013.06 MB/s)
+loop 344 in 802.43 ms (bandwidth: 4984.83 MB/s)
+loop 345 in 815.62 ms (bandwidth: 4904.26 MB/s)
+loop 346 in 819.88 ms (bandwidth: 4878.77 MB/s)
+loop 347 in 803.32 ms (bandwidth: 4979.34 MB/s)
+loop 348 in 795.79 ms (bandwidth: 5026.43 MB/s)
+loop 349 in 798.04 ms (bandwidth: 5012.29 MB/s)
+loop 350 in 795.95 ms (bandwidth: 5025.45 MB/s)
+loop 351 in 798.75 ms (bandwidth: 5007.81 MB/s)
+loop 352 in 797.51 ms (bandwidth: 5015.61 MB/s)
+loop 353 in 796.28 ms (bandwidth: 5023.39 MB/s)
+loop 354 in 797.63 ms (bandwidth: 5014.84 MB/s)
+loop 355 in 801.36 ms (bandwidth: 4991.49 MB/s)
+loop 356 in 799.95 ms (bandwidth: 5000.30 MB/s)
+loop 357 in 801.51 ms (bandwidth: 4990.60 MB/s)
+loop 358 in 799.67 ms (bandwidth: 5002.04 MB/s)
+loop 359 in 800.28 ms (bandwidth: 4998.24 MB/s)
+loop 360 in 799.46 ms (bandwidth: 5003.35 MB/s)
+loop 361 in 801.04 ms (bandwidth: 4993.50 MB/s)
+loop 362 in 801.99 ms (bandwidth: 4987.57 MB/s)
+loop 363 in 793.71 ms (bandwidth: 5039.64 MB/s)
+loop 364 in 788.96 ms (bandwidth: 5069.95 MB/s)
+loop 365 in 789.24 ms (bandwidth: 5068.18 MB/s)
+loop 366 in 786.12 ms (bandwidth: 5088.25 MB/s)
+loop 367 in 790.96 ms (bandwidth: 5057.13 MB/s)
+loop 368 in 787.59 ms (bandwidth: 5078.79 MB/s)
+loop 369 in 787.10 ms (bandwidth: 5081.95 MB/s)
+loop 370 in 788.48 ms (bandwidth: 5073.05 MB/s)
+loop 371 in 786.59 ms (bandwidth: 5085.27 MB/s)
+loop 372 in 790.73 ms (bandwidth: 5058.62 MB/s)
+loop 373 in 786.56 ms (bandwidth: 5085.45 MB/s)
+loop 374 in 789.01 ms (bandwidth: 5069.66 MB/s)
+loop 375 in 789.65 ms (bandwidth: 5065.52 MB/s)
+loop 376 in 788.52 ms (bandwidth: 5072.82 MB/s)
+loop 377 in 796.02 ms (bandwidth: 5024.99 MB/s)
+loop 378 in 797.22 ms (bandwidth: 5017.43 MB/s)
+loop 379 in 795.63 ms (bandwidth: 5027.46 MB/s)
+loop 380 in 794.39 ms (bandwidth: 5035.33 MB/s)
+loop 381 in 795.47 ms (bandwidth: 5028.49 MB/s)
+loop 382 in 797.38 ms (bandwidth: 5016.45 MB/s)
+loop 383 in 793.35 ms (bandwidth: 5041.88 MB/s)
+loop 384 in 797.67 ms (bandwidth: 5014.61 MB/s)
+loop 385 in 797.33 ms (bandwidth: 5016.77 MB/s)
+loop 386 in 796.25 ms (bandwidth: 5023.54 MB/s)
+loop 387 in 796.48 ms (bandwidth: 5022.09 MB/s)
+loop 388 in 797.57 ms (bandwidth: 5015.26 MB/s)
+loop 389 in 798.38 ms (bandwidth: 5010.11 MB/s)
+loop 390 in 797.73 ms (bandwidth: 5014.20 MB/s)
+loop 391 in 795.81 ms (bandwidth: 5026.32 MB/s)
+loop 392 in 795.05 ms (bandwidth: 5031.14 MB/s)
+loop 393 in 796.12 ms (bandwidth: 5024.39 MB/s)
+loop 394 in 796.71 ms (bandwidth: 5020.62 MB/s)
+loop 395 in 796.49 ms (bandwidth: 5022.04 MB/s)
+loop 396 in 795.99 ms (bandwidth: 5025.18 MB/s)
+loop 397 in 793.54 ms (bandwidth: 5040.72 MB/s)
+loop 398 in 794.37 ms (bandwidth: 5035.44 MB/s)
+loop 399 in 795.73 ms (bandwidth: 5026.82 MB/s)
+loop 400 in 798.42 ms (bandwidth: 5009.92 MB/s)
+loop 401 in 794.07 ms (bandwidth: 5037.31 MB/s)
+loop 402 in 795.95 ms (bandwidth: 5025.43 MB/s)
+loop 403 in 795.30 ms (bandwidth: 5029.53 MB/s)
+loop 404 in 795.12 ms (bandwidth: 5030.70 MB/s)
+loop 405 in 793.79 ms (bandwidth: 5039.14 MB/s)
+loop 406 in 796.34 ms (bandwidth: 5022.96 MB/s)
+loop 407 in 798.59 ms (bandwidth: 5008.85 MB/s)
+loop 408 in 799.56 ms (bandwidth: 5002.73 MB/s)
+loop 409 in 796.88 ms (bandwidth: 5019.59 MB/s)
+loop 410 in 795.99 ms (bandwidth: 5025.17 MB/s)
+loop 411 in 795.12 ms (bandwidth: 5030.66 MB/s)
+loop 412 in 797.05 ms (bandwidth: 5018.53 MB/s)
+loop 413 in 796.50 ms (bandwidth: 5021.98 MB/s)
+loop 414 in 795.91 ms (bandwidth: 5025.71 MB/s)
+loop 415 in 793.77 ms (bandwidth: 5039.24 MB/s)
+loop 416 in 794.63 ms (bandwidth: 5033.76 MB/s)
+loop 417 in 795.66 ms (bandwidth: 5027.30 MB/s)
+loop 418 in 797.47 ms (bandwidth: 5015.86 MB/s)
+loop 419 in 800.33 ms (bandwidth: 4997.91 MB/s)
+loop 420 in 797.79 ms (bandwidth: 5013.88 MB/s)
+loop 421 in 800.07 ms (bandwidth: 4999.58 MB/s)
+loop 422 in 798.27 ms (bandwidth: 5010.81 MB/s)
+loop 423 in 798.50 ms (bandwidth: 5009.37 MB/s)
+loop 424 in 795.43 ms (bandwidth: 5028.76 MB/s)
+loop 425 in 794.82 ms (bandwidth: 5032.56 MB/s)
+loop 426 in 803.48 ms (bandwidth: 4978.35 MB/s)
+loop 427 in 801.20 ms (bandwidth: 4992.52 MB/s)
+loop 428 in 798.84 ms (bandwidth: 5007.29 MB/s)
+loop 429 in 801.87 ms (bandwidth: 4988.34 MB/s)
+loop 430 in 795.63 ms (bandwidth: 5027.43 MB/s)
+loop 431 in 797.54 ms (bandwidth: 5015.43 MB/s)
+loop 432 in 799.39 ms (bandwidth: 5003.83 MB/s)
+loop 433 in 795.65 ms (bandwidth: 5027.33 MB/s)
+loop 434 in 800.89 ms (bandwidth: 4994.46 MB/s)
+loop 435 in 795.49 ms (bandwidth: 5028.37 MB/s)
+loop 436 in 794.54 ms (bandwidth: 5034.37 MB/s)
+loop 437 in 797.07 ms (bandwidth: 5018.35 MB/s)
+loop 438 in 796.02 ms (bandwidth: 5025.02 MB/s)
+loop 439 in 785.73 ms (bandwidth: 5090.80 MB/s)
+loop 440 in 784.96 ms (bandwidth: 5095.79 MB/s)
+loop 441 in 789.94 ms (bandwidth: 5063.68 MB/s)
+loop 442 in 785.04 ms (bandwidth: 5095.27 MB/s)
+loop 443 in 786.73 ms (bandwidth: 5084.36 MB/s)
+loop 444 in 785.54 ms (bandwidth: 5092.05 MB/s)
+loop 445 in 786.71 ms (bandwidth: 5084.49 MB/s)
+loop 446 in 786.67 ms (bandwidth: 5084.69 MB/s)
+loop 447 in 789.58 ms (bandwidth: 5065.98 MB/s)
+loop 448 in 792.64 ms (bandwidth: 5046.40 MB/s)
+loop 449 in 789.45 ms (bandwidth: 5066.85 MB/s)
+loop 450 in 791.00 ms (bandwidth: 5056.92 MB/s)
+loop 451 in 791.14 ms (bandwidth: 5056.00 MB/s)
+loop 452 in 792.19 ms (bandwidth: 5049.29 MB/s)
+loop 453 in 795.53 ms (bandwidth: 5028.09 MB/s)
+loop 454 in 794.53 ms (bandwidth: 5034.40 MB/s)
+loop 455 in 800.09 ms (bandwidth: 4999.44 MB/s)
+loop 456 in 797.82 ms (bandwidth: 5013.65 MB/s)
+loop 457 in 800.48 ms (bandwidth: 4996.98 MB/s)
+loop 458 in 797.40 ms (bandwidth: 5016.32 MB/s)
+loop 459 in 799.80 ms (bandwidth: 5001.24 MB/s)
+loop 460 in 802.14 ms (bandwidth: 4986.68 MB/s)
+loop 461 in 797.50 ms (bandwidth: 5015.66 MB/s)
+loop 462 in 797.90 ms (bandwidth: 5013.15 MB/s)
+loop 463 in 800.71 ms (bandwidth: 4995.54 MB/s)
+loop 464 in 800.42 ms (bandwidth: 4997.40 MB/s)
+loop 465 in 801.06 ms (bandwidth: 4993.40 MB/s)
+loop 466 in 796.58 ms (bandwidth: 5021.48 MB/s)
+loop 467 in 797.49 ms (bandwidth: 5015.72 MB/s)
+loop 468 in 796.32 ms (bandwidth: 5023.09 MB/s)
+loop 469 in 798.21 ms (bandwidth: 5011.24 MB/s)
+loop 470 in 793.74 ms (bandwidth: 5039.45 MB/s)
+loop 471 in 796.84 ms (bandwidth: 5019.83 MB/s)
+loop 472 in 795.70 ms (bandwidth: 5027.00 MB/s)
+loop 473 in 795.60 ms (bandwidth: 5027.65 MB/s)
+loop 474 in 796.76 ms (bandwidth: 5020.32 MB/s)
+loop 475 in 794.24 ms (bandwidth: 5036.28 MB/s)
+loop 476 in 793.46 ms (bandwidth: 5041.23 MB/s)
+loop 477 in 802.07 ms (bandwidth: 4987.11 MB/s)
+loop 478 in 800.65 ms (bandwidth: 4995.96 MB/s)
+loop 479 in 802.42 ms (bandwidth: 4984.92 MB/s)
+loop 480 in 797.13 ms (bandwidth: 5018.03 MB/s)
+loop 481 in 801.40 ms (bandwidth: 4991.27 MB/s)
+loop 482 in 802.56 ms (bandwidth: 4984.03 MB/s)
+loop 483 in 796.97 ms (bandwidth: 5019.03 MB/s)
+loop 484 in 800.32 ms (bandwidth: 4998.01 MB/s)
+loop 485 in 796.39 ms (bandwidth: 5022.66 MB/s)
+loop 486 in 794.95 ms (bandwidth: 5031.78 MB/s)
+loop 487 in 800.24 ms (bandwidth: 4998.48 MB/s)
+loop 488 in 794.94 ms (bandwidth: 5031.85 MB/s)
+loop 489 in 802.49 ms (bandwidth: 4984.49 MB/s)
+loop 490 in 799.15 ms (bandwidth: 5005.32 MB/s)
+loop 491 in 798.97 ms (bandwidth: 5006.47 MB/s)
+loop 492 in 801.28 ms (bandwidth: 4992.00 MB/s)
+loop 493 in 804.15 ms (bandwidth: 4974.17 MB/s)
+loop 494 in 800.63 ms (bandwidth: 4996.07 MB/s)
+loop 495 in 802.04 ms (bandwidth: 4987.31 MB/s)
+loop 496 in 797.67 ms (bandwidth: 5014.63 MB/s)
+loop 497 in 800.87 ms (bandwidth: 4994.59 MB/s)
+loop 498 in 796.01 ms (bandwidth: 5025.04 MB/s)
+loop 499 in 801.37 ms (bandwidth: 4991.47 MB/s)
+loop 500 in 799.69 ms (bandwidth: 5001.95 MB/s)
+loop 501 in 797.72 ms (bandwidth: 5014.27 MB/s)
+loop 502 in 804.19 ms (bandwidth: 4973.94 MB/s)
+loop 503 in 799.34 ms (bandwidth: 5004.10 MB/s)
+loop 504 in 800.10 ms (bandwidth: 4999.39 MB/s)
+loop 505 in 798.07 ms (bandwidth: 5012.07 MB/s)
+loop 506 in 798.50 ms (bandwidth: 5009.42 MB/s)
+loop 507 in 803.99 ms (bandwidth: 4975.16 MB/s)
+loop 508 in 797.21 ms (bandwidth: 5017.48 MB/s)
+loop 509 in 802.33 ms (bandwidth: 4985.50 MB/s)
+loop 510 in 801.40 ms (bandwidth: 4991.28 MB/s)
+loop 511 in 799.51 ms (bandwidth: 5003.05 MB/s)
+
+
+
+
+
+
+
+
+
+
+
+
+loop 512 in 798.47 ms (banNov 16 10:20:59 thinkpad kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+Nov 16 10:21:03 thinkpad kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+Nov 16 10:21:03 thinkpad kernel: iwlwifi 0000:03:00.0: Radio type=0x1-0x2-0x0
+Nov 16 10:21:03 thinkpad kernel: wlan0: authenticate with bc:30:d9:2c:61:6a (local address=6c:88:14:f2:42:c0)
+Nov 16 10:21:03 thinkpad kernel: wlan0: send auth to bc:30:d9:2c:61:6a (try 1/3)
+Nov 16 10:21:03 thinkpad kernel: wlan0: authenticated
+Nov 16 10:21:03 thinkpad kernel: wlan0: associate with bc:30:d9:2c:61:6a (try 1/3)
+Nov 16 10:21:03 thinkpad kernel: wlan0: RX AssocResp from bc:30:d9:2c:61:6a (capab=0x1431 status=0 aid=9)
+Nov 16 10:21:03 thinkpad kernel: wlan0: associated
+Nov 16 10:21:03 thinkpad kernel: wlan0: Limiting TX power to 20 (20 - 0) dBm as advertised by bc:30:d9:2c:61:6a
+Nov 16 10:23:32 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: warn_alloc: 1974402 callbacks suppressed
+Nov 16 10:23:33 thinkpad kernel: kworker/u16:5: page allocation failure: order:0, mode:0x40cc0(GFP_KERNEL|__GFP_COMP), nodemask=(null),cpuset=/,mems_allowed=0
+Nov 16 10:23:33 thinkpad kernel: CPU: 2 UID: 0 PID: 4871 Comm: kworker/u16:5 Not tainted 6.12.53-1-lts #1 1fa97fe615f2f32f4b7a3dd8a6115064d7c4624d
+Nov 16 10:23:33 thinkpad kernel: Hardware name: LENOVO 23511F4/23511F4, BIOS G1ET93WW (2.53 ) 03/08/2013
+Nov 16 10:23:33 thinkpad kernel: Workqueue: kvfree_rcu_reclaim fill_page_cache_func
+Nov 16 10:23:33 thinkpad kernel: Call Trace:
+Nov 16 10:23:33 thinkpad kernel:  <TASK>
+Nov 16 10:23:33 thinkpad kernel:  dump_stack_lvl+0x5d/0x80
+Nov 16 10:23:33 thinkpad kernel:  warn_alloc+0x165/0x190
+Nov 16 10:23:33 thinkpad kernel:  ? blk_mq_get_tag+0x9f/0x2a0
+Nov 16 10:23:33 thinkpad kernel:  __alloc_pages_slowpath.constprop.0+0x939/0xe00
+Nov 16 10:23:33 thinkpad kernel:  ? __blk_mq_alloc_requests+0x313/0x520
+Nov 16 10:23:33 thinkpad kernel:  ? blk_mq_submit_bio+0x65c/0x860
+Nov 16 10:23:33 thinkpad kernel:  __alloc_pages_noprof+0x32a/0x340
+Nov 16 10:23:33 thinkpad kernel:  alloc_pages_mpol_noprof+0xe7/0x1d0
+Nov 16 10:23:33 thinkpad kernel:  folio_alloc_mpol_noprof+0x14/0x30
+Nov 16 10:23:33 thinkpad kernel:  __read_swap_cache_async+0x1cb/0x290
+Nov 16 10:23:33 thinkpad kernel:  zswap_writeback_entry+0x6e/0x1c0
+Nov 16 10:23:33 thinkpad kernel:  shrink_memcg_cb+0x90/0xf0
+Nov 16 10:23:33 thinkpad kernel:  __list_lru_walk_one+0xaa/0x1b0
+Nov 16 10:23:33 thinkpad kernel:  ? __pfx_shrink_memcg_cb+0x10/0x10
+Nov 16 10:23:33 thinkpad kernel:  list_lru_walk_one+0x64/0x90
+Nov 16 10:23:33 thinkpad kernel:  ? __pfx_shrink_memcg_cb+0x10/0x10
+Nov 16 10:23:33 thinkpad kernel:  zswap_shrinker_scan+0x65/0xa0
+Nov 16 10:23:33 thinkpad kernel:  do_shrink_slab+0x140/0x350
+Nov 16 10:23:33 thinkpad kernel:  shrink_slab+0x278/0x3a0
+Nov 16 10:23:33 thinkpad kernel:  shrink_one+0x121/0x1f0
+Nov 16 10:23:33 thinkpad kernel:  shrink_node+0xa83/0xc20
+Nov 16 10:23:33 thinkpad kernel:  do_try_to_free_pages+0xb3/0x580
+Nov 16 10:23:33 thinkpad kernel:  ? get_page_from_freelist+0x1554/0x17f0
+Nov 16 10:23:33 thinkpad kernel:  try_to_free_pages+0xdf/0x210
+Nov 16 10:23:33 thinkpad kernel:  __alloc_pages_slowpath.constprop.0+0x321/0xe00
+Nov 16 10:23:33 thinkpad kernel:  ? sched_balance_newidle+0x27d/0x470
+Nov 16 10:23:33 thinkpad kernel:  ? psi_group_change+0x10c/0x2c0
+Nov 16 10:23:33 thinkpad kernel:  __alloc_pages_noprof+0x32a/0x340
+Nov 16 10:23:33 thinkpad kernel:  alloc_pages_mpol_noprof+0xe7/0x1d0
+Nov 16 10:23:33 thinkpad kernel:  ? kfree_rcu_work+0x1a8/0x1c0
+Nov 16 10:23:33 thinkpad kernel:  get_free_pages_noprof+0x11/0x40
+Nov 16 10:23:33 thinkpad kernel:  fill_page_cache_func+0x41/0xe0
+Nov 16 10:23:33 thinkpad kernel:  process_one_work+0x17f/0x340
+Nov 16 10:23:33 thinkpad kernel:  worker_thread+0x2d2/0x400
+Nov 16 10:23:33 thinkpad kernel:  ? __pfx_worker_thread+0x10/0x10
+Nov 16 10:23:33 thinkpad kernel:  kthread+0xd2/0x100
+Nov 16 10:23:33 thinkpad kernel:  ? __pfx_kthread+0x10/0x10
+Nov 16 10:23:33 thinkpad kernel:  ret_from_fork+0x34/0x50
+Nov 16 10:23:33 thinkpad kernel:  ? __pfx_kthread+0x10/0x10
+Nov 16 10:23:33 thinkpad kernel:  ret_from_fork_asm+0x1a/0x30
+Nov 16 10:23:33 thinkpad kernel:  </TASK>
+Nov 16 10:23:33 thinkpad kernel: Mem-Info:
+Nov 16 10:23:33 thinkpad kernel: active_anon:993302 inactive_anon:889728 isolated_anon:0
+                                  active_file:498 inactive_file:416 isolated_file:0
+                                  unevictable:1354 dirty:320 writeback:3
+                                  slab_reclaimable:12235 slab_unreclaimable:36784
+                                  mapped:774 shmem:10149 pagetables:16235
+                                  sec_pagetables:514 bounce:0
+                                  kernel_misc_reclaimable:0
+                                  free:0 free_pcp:308 free_cma:0
+Nov 16 10:23:33 thinkpad kernel: Node 0 active_anon:3973208kB inactive_anon:3558912kB active_file:1224kB inactive_file:2432kB unevictable:5416kB isolated(anon):0kB isolated(file):0kB mapped:3096kB dirty:1280kB writeback:12kB shmem:40596kB shmem_thp:0kB shmem_pmdmapped:0kB anon_thp:1370112kB writeback_tmp:0kB kernel_stack:12272kB pagetables:64940kB sec_pagetables:2056kB all_unreclaimable? no
+Nov 16 10:23:33 thinkpad kernel: Node 0 DMA free:4kB boost:0kB min:128kB low:160kB high:192kB reserved_highatomic:0KB active_anon:6920kB inactive_anon:7268kB active_file:0kB inactive_file:0kB unevictable:0kB writepending:40kB present:15932kB managed:15360kB mlocked:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+Nov 16 10:23:33 thinkpad kernel: lowmem_reserve[]: 0 3316 7704 7704 7704
+Nov 16 10:23:33 thinkpad kernel: Node 0 DMA32 free:0kB boost:65320kB min:94356kB low:101612kB high:108868kB reserved_highatomic:0KB active_anon:1270688kB inactive_anon:2127124kB active_file:364kB inactive_file:156kB unevictable:0kB writepending:496kB present:3495972kB managed:3430304kB mlocked:0kB bounce:0kB free_pcp:1220kB local_pcp:0kB free_cma:0kB
+Nov 16 10:23:33 thinkpad kernel: lowmem_reserve[]: 0 0 4387 4387 4387
+Nov 16 10:23:33 thinkpad kernel: Node 0 Normal free:0kB boost:53248kB min:91660kB low:101260kB high:110860kB reserved_highatomic:0KB active_anon:2695660kB inactive_anon:1424648kB active_file:1156kB inactive_file:1980kB unevictable:5416kB writepending:776kB present:4691968kB managed:4501284kB mlocked:32kB bounce:0kB free_pcp:12kB local_pcp:0kB free_cma:0kB
+Nov 16 10:23:33 thinkpad kernel: lowmem_reserve[]: 0 0 0 0 0
+Nov 16 10:23:33 thinkpad kernel: Node 0 DMA: 0*4kB 0*8kB 0*16kB 0*32kB 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 0kB
+Nov 16 10:23:33 thinkpad kernel: Node 0 DMA32: 0*4kB 0*8kB 0*16kB 0*32kB 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 0kB
+Nov 16 10:23:33 thinkpad kernel: Node 0 Normal: 0*4kB 0*8kB 0*16kB 0*32kB 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 0kB
+Nov 16 10:23:33 thinkpad kernel: Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=2048kB
+Nov 16 10:23:33 thinkpad kernel: 60922 total pagecache pages
+Nov 16 10:23:33 thinkpad kernel: 49916 pages in swap cache
+Nov 16 10:23:33 thinkpad kernel: Free swap  = 40kB
+Nov 16 10:23:33 thinkpad kernel: Total swap = 9227464kB
+Nov 16 10:23:33 thinkpad kernel: 2050968 pages RAM
+Nov 16 10:23:33 thinkpad kernel: 0 pages HighMem/MovableOnly
+Nov 16 10:23:33 thinkpad kernel: 64231 pages reserved
+Nov 16 10:23:33 thinkpad kernel: 0 pages cma reserved
+Nov 16 10:23:33 thinkpad kernel: 0 pages hwpoisoned
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: HangWatcher invoked oom-killer: gfp_mask=0x140cca(GFP_HIGHUSER_MOVABLE|__GFP_COMP), order=0, oom_score_adj=300
+Nov 16 10:23:33 thinkpad kernel: CPU: 0 UID: 1000 PID: 2413 Comm: HangWatcher Not tainted 6.12.53-1-lts #1 1fa97fe615f2f32f4b7a3dd8a6115064d7c4624d
+Nov 16 10:23:33 thinkpad kernel: Hardware name: LENOVO 23511F4/23511F4, BIOS G1ET93WW (2.53 ) 03/08/2013
+Nov 16 10:23:33 thinkpad kernel: Call Trace:
+Nov 16 10:23:33 thinkpad kernel:  <TASK>
+Nov 16 10:23:33 thinkpad kernel:  dump_stack_lvl+0x5d/0x80
+Nov 16 10:23:33 thinkpad kernel:  dump_header+0x43/0x1aa
+Nov 16 10:23:33 thinkpad kernel:  oom_kill_process.cold+0x8/0x8b
+Nov 16 10:23:33 thinkpad kernel:  out_of_memory+0x212/0x500
+Nov 16 10:23:33 thinkpad kernel:  __alloc_pages_slowpath.constprop.0+0xc3e/0xe00
+Nov 16 10:23:33 thinkpad kernel:  __alloc_pages_noprof+0x32a/0x340
+Nov 16 10:23:33 thinkpad kernel:  alloc_pages_mpol_noprof+0xe7/0x1d0
+Nov 16 10:23:33 thinkpad kernel:  ? filemap_get_entry+0x100/0x1a0
+Nov 16 10:23:33 thinkpad kernel:  folio_alloc_noprof+0x5b/0xa0
+Nov 16 10:23:33 thinkpad kernel:  __filemap_get_folio+0x1a3/0x2f0
+Nov 16 10:23:33 thinkpad kernel:  filemap_fault+0x1fb/0xd90
+Nov 16 10:23:33 thinkpad kernel:  __do_fault+0x34/0x1d0
+Nov 16 10:23:33 thinkpad kernel:  do_fault+0x34f/0x520
+Nov 16 10:23:33 thinkpad kernel:  __handle_mm_fault+0x7dd/0xfb0
+Nov 16 10:23:33 thinkpad kernel:  ? arch_exit_to_user_mode_prepare.isra.0+0xb8/0xd0
+Nov 16 10:23:33 thinkpad kernel:  handle_mm_fault+0xde/0x2c0
+Nov 16 10:23:33 thinkpad kernel:  do_user_addr_fault+0x21e/0x640
+Nov 16 10:23:33 thinkpad kernel:  exc_page_fault+0x81/0x190
+Nov 16 10:23:33 thinkpad kernel:  asm_exc_page_fault+0x26/0x30
+Nov 16 10:23:33 thinkpad kernel: RIP: 0033:0x71bdc389f042
+Nov 16 10:23:33 thinkpad kernel: Code: Unable to access opcode bytes at 0x71bdc389f018.
+Nov 16 10:23:33 thinkpad kernel: RSP: 002b:000071bd341f2bd8 EFLAGS: 00010246
+Nov 16 10:23:33 thinkpad kernel: RAX: ffffffffffffff92 RBX: 0000000000000000 RCX: 000071bdc389f042
+Nov 16 10:23:33 thinkpad kernel: RDX: 0000000000000000 RSI: 0000000000000089 RDI: 000071bd341f2de0
+Nov 16 10:23:33 thinkpad kernel: RBP: 000071bd341f2c00 R08: 0000000000000000 R09: 00000000ffffffff
+Nov 16 10:23:33 thinkpad kernel: R10: 000071bd341f2e50 R11: 0000000000000246 R12: 000071bd341f2d98
+Nov 16 10:23:33 thinkpad kernel: R13: 000071bd341f2de0 R14: 000071bd341f2dc0 R15: 0000000000000000
+Nov 16 10:23:33 thinkpad kernel:  </TASK>
+Nov 16 10:23:33 thinkpad kernel: Mem-Info:
+Nov 16 10:23:33 thinkpad kernel: active_anon:559970 inactive_anon:1323464 isolated_anon:0
+                                  active_file:429 inactive_file:292 isolated_file:0
+                                  unevictable:1354 dirty:320 writeback:17
+                                  slab_reclaimable:12235 slab_unreclaimable:36775
+                                  mapped:774 shmem:10149 pagetables:16235
+                                  sec_pagetables:514 bounce:0
+                                  kernel_misc_reclaimable:0
+                                  free:0 free_pcp:0 free_cma:0
+Nov 16 10:23:33 thinkpad kernel: Node 0 active_anon:2239880kB inactive_anon:5293856kB active_file:2060kB inactive_file:1168kB unevictable:5416kB isolated(anon):0kB isolated(file):0kB mapped:3096kB dirty:1280kB writeback:68kB shmem:40596kB shmem_thp:0kB shmem_pmdmapped:0kB anon_thp:1370112kB writeback_tmp:0kB kernel_stack:12272kB pagetables:64940kB sec_pagetables:2056kB all_unreclaimable? yes
+Nov 16 10:23:33 thinkpad kernel: Node 0 DMA free:0kB boost:0kB min:128kB low:160kB high:192kB reserved_highatomic:0KB active_anon:7268kB inactive_anon:7068kB active_file:0kB inactive_file:0kB unevictable:0kB writepending:4kB present:15932kB managed:15360kB mlocked:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+Nov 16 10:23:33 thinkpad kernel: lowmem_reserve[]: 0 3316 7704 7704 7704
+Nov 16 10:23:33 thinkpad kernel: Node 0 DMA32 free:4kB boost:0kB min:29036kB low:36292kB high:43548kB reserved_highatomic:0KB active_anon:691620kB inactive_anon:2707412kB active_file:300kB inactive_file:0kB unevictable:0kB writepending:200kB present:3495972kB managed:3430304kB mlocked:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+Nov 16 10:23:33 thinkpad kernel: lowmem_reserve[]: 0 0 4387 4387 4387
+Nov 16 10:23:33 thinkpad kernel: Node 0 Normal free:0kB boost:0kB min:38412kB low:48012kB high:57612kB reserved_highatomic:0KB active_anon:1541348kB inactive_anon:2579020kB active_file:1616kB inactive_file:1264kB unevictable:5416kB writepending:824kB present:4691968kB managed:4501284kB mlocked:32kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+Nov 16 10:23:33 thinkpad kernel: lowmem_reserve[]: 0 0 0 0 0
+Nov 16 10:23:33 thinkpad kernel: Node 0 DMA: 0*4kB 0*8kB 0*16kB 0*32kB 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 0kB
+Nov 16 10:23:33 thinkpad kernel: Node 0 DMA32: 0*4kB 0*8kB 0*16kB 0*32kB 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 0kB
+Nov 16 10:23:33 thinkpad kernel: Node 0 Normal: 0*4kB 0*8kB 0*16kB 0*32kB 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB = 0kB
+Nov 16 10:23:33 thinkpad kernel: Node 0 hugepages_total=0 hugepages_free=0 hugepages_surp=0 hugepages_size=2048kB
+Nov 16 10:23:33 thinkpad kernel: 61312 total pagecache pages
+Nov 16 10:23:33 thinkpad kernel: 50306 pages in swap cache
+Nov 16 10:23:33 thinkpad kernel: Free swap  = 40kB
+Nov 16 10:23:33 thinkpad kernel: Total swap = 9227464kB
+Nov 16 10:23:33 thinkpad kernel: 2050968 pages RAM
+Nov 16 10:23:33 thinkpad kernel: 0 pages HighMem/MovableOnly
+Nov 16 10:23:33 thinkpad kernel: 64231 pages reserved
+Nov 16 10:23:33 thinkpad kernel: 0 pages cma reserved
+Nov 16 10:23:33 thinkpad kernel: 0 pages hwpoisoned
+Nov 16 10:23:33 thinkpad kernel: Tasks state (memory values in pages):
+Nov 16 10:23:33 thinkpad kernel: [  pid  ]   uid  tgid total_vm      rss rss_anon rss_file rss_shmem pgtables_bytes swapents oom_score_adj name
+Nov 16 10:23:33 thinkpad kernel: [    483]     0   483    12273      196       67      126         3   102400      298          -250 systemd-journal
+Nov 16 10:23:33 thinkpad kernel: [    510]     0   510     3910       83       54       29         0    73728      234             0 systemd-userdbd
+Nov 16 10:23:33 thinkpad kernel: [    518]   975   518    22624      118       57       61         0    77824      249             0 systemd-timesyn
+Nov 16 10:23:33 thinkpad kernel: [    526]     0   526     9446      166       99       67         0    94208      712         -1000 systemd-udevd
+Nov 16 10:23:33 thinkpad kernel: [    788]    81   788     2199       87       20       67         0    57344      201          -900 dbus-broker-lau
+Nov 16 10:23:33 thinkpad kernel: [    798]    81   798     2041      194      141       53         0    61440      344          -900 dbus-broker
+Nov 16 10:23:33 thinkpad kernel: [    881]   971   881     1697       94       42       52         0    57344       53             0 avahi-daemon
+Nov 16 10:23:33 thinkpad kernel: [    883]     0   883    35236      182      102       80         0   176128     7649             0 firewalld
+Nov 16 10:23:33 thinkpad kernel: [    894]     0   894     4197      182      125       57         0    73728      233             0 systemd-logind
+Nov 16 10:23:33 thinkpad kernel: [    895]     0   895     4127       85       39       46         0    69632      256             0 systemd-machine
+Nov 16 10:23:33 thinkpad kernel: [    923]     0   923     2595      123       68       55         0    65536       60             0 bluetoothd
+Nov 16 10:23:33 thinkpad kernel: [    927]   971   927     1662       30        4       26         0    57344       77             0 avahi-daemon
+Nov 16 10:23:33 thinkpad kernel: [   1102]   102  1102    96565      301      237       64         0   122880      607             0 polkitd
+Nov 16 10:23:33 thinkpad kernel: [   1115]     0  1115   104369      315      278       37         0   180224      766             0 NetworkManager
+Nov 16 10:23:33 thinkpad kernel: [   1132]     0  1132     4314      235      178       57         0    77824      310             0 wpa_supplicant
+Nov 16 10:23:33 thinkpad kernel: [   1142]     0  1142   393693      151       89       62         0   335872     2744             0 libvirtd
+Nov 16 10:23:33 thinkpad kernel: [   1146]     0  1146     2274       18        7       11         0    61440      278         -1000 sshd
+Nov 16 10:23:33 thinkpad kernel: [   1149]     0  1149    94884       87       54       33         0   114688      343             0 lightdm
+Nov 16 10:23:33 thinkpad kernel: [   1169]     0  1169   140128      640      558       73         9   557056     7202             0 Xorg
+Nov 16 10:23:33 thinkpad kernel: [   1170]     0  1170    77693      130       21      109         0   106496      497             0 accounts-daemon
+Nov 16 10:23:33 thinkpad kernel: [   1424] 65534  1424     2866       65       13       52         0    61440      125             0 dnsmasq
+Nov 16 10:23:33 thinkpad kernel: [   1425]     0  1425     2866       20        1       19         0    61440      132             0 dnsmasq
+Nov 16 10:23:33 thinkpad kernel: [   1565]     0  1565    43657       53       32       21         0   102400      494             0 lightdm
+Nov 16 10:23:33 thinkpad kernel: [   1659]  1000  1659     5339      190      124       66         0    81920      502           100 systemd
+Nov 16 10:23:33 thinkpad kernel: [   1662]  1000  1662     5887       25        0       25         0    81920      483           100 (sd-pam)
+Nov 16 10:23:33 thinkpad kernel: [   1673]  1000  1673    33287      206       97       37        72   159744     1120             0 i3
+Nov 16 10:23:33 thinkpad kernel: [   1693]  1000  1693     2070       93       40       53         0    61440       28           200 dbus-broker-lau
+Nov 16 10:23:33 thinkpad kernel: [   1694]  1000  1694     1190      128       80       48         0    49152       33           200 dbus-broker
+Nov 16 10:23:33 thinkpad kernel: [   1696]  1000  1696    79735      117       80       37         0   184320     1985             0 polkit-gnome-au
+Nov 16 10:23:33 thinkpad kernel: [   1702]  1000  1702   274644      127       44       81         2   253952     1684             0 dunst
+Nov 16 10:23:33 thinkpad kernel: [   1705]  1000  1705    24865      130       63       67         0   102400     1012             0 i3bar
+Nov 16 10:23:33 thinkpad kernel: [   1708]  1000  1708   114558      661      602       59         0   196608     1447             0 lxsession
+Nov 16 10:23:33 thinkpad kernel: [   1710]  1000  1710   194928      275      183       92         0   208896      642             0 polybar
+Nov 16 10:23:33 thinkpad kernel: [   1711]  1000  1711   362978      244      176       68         0   208896     2388             0 syncthing
+Nov 16 10:23:33 thinkpad kernel: [   1712]  1000  1712  8599706     7674     7406      156       112  1581056    31266             0 brave
+Nov 16 10:23:33 thinkpad kernel: [   1713]  1000  1713     3517       76       55       21         0    65536       64             0 redshift
+Nov 16 10:23:33 thinkpad kernel: [   1721]  1000  1721   114756      116       40       76         0   196608     2069             0 xfce4-power-man
+Nov 16 10:23:33 thinkpad kernel: [   1735]  1000  1735      680       23        2       21         0    45056        0             0 i3blocks
+Nov 16 10:23:33 thinkpad kernel: [   1736]  1000  1736    81413      155       91       64         0   131072      368           200 gvfsd
+Nov 16 10:23:33 thinkpad kernel: [   1746]  1000  1746   293351      505      431       73         1   327680     2435             0 nm-applet
+Nov 16 10:23:33 thinkpad kernel: [   1748]  1000  1748    99315       35       20       15         0   110592      151           200 gvfsd-fuse
+Nov 16 10:23:33 thinkpad kernel: [   1749]  1000  1749    70167      143       97       46         0   258048     2219             0 kdeconnectd
+Nov 16 10:23:33 thinkpad kernel: [   1770]  1000  1770    95258       20        8       12         0   110592      180           200 at-spi-bus-laun
+Nov 16 10:23:33 thinkpad kernel: [   1771]  1000  1771    25424       98       29       69         0    86016     1047           200 pipewire
+Nov 16 10:23:33 thinkpad kernel: [   1774]  1000  1774   196864      212      130       81         1   344064     3711           200 wireplumber
+Nov 16 10:23:33 thinkpad kernel: [   1775]  1000  1775    24830       59        0       59         0    81920      453           200 pipewire-pulse
+Nov 16 10:23:33 thinkpad kernel: [   1783]  1000  1783     2070       87       15       72         0    57344       55           200 dbus-broker-lau
+Nov 16 10:23:33 thinkpad kernel: [   1784]  1000  1784     1100       47        7       40         0    49152       49           200 dbus-broker
+Nov 16 10:23:33 thinkpad kernel: [   1788]  1000  1788    42106      107       23       84         0    86016      156           200 at-spi2-registr
+Nov 16 10:23:33 thinkpad kernel: [   1794]  1000  1794    79817      174       87       87         0   180224     1964             0 lxpolkit
+Nov 16 10:23:33 thinkpad kernel: [   1801]   133  1801    21873       70       16       54         0    61440       43             0 rtkit-daemon
+Nov 16 10:23:33 thinkpad kernel: [   1810]  1000  1810    79687      107       34       73         0   192512     2008             0 lxclipboard
+Nov 16 10:23:33 thinkpad kernel: [   1826]  1000  1826   179523      329      251       78         0   307200     6481             0 blueman-applet
+Nov 16 10:23:33 thinkpad kernel: [   1843]  1000  1843     2236       13        9        4         0    53248      244             0 ssh-agent
+Nov 16 10:23:33 thinkpad kernel: [   1847]  1000  1847   544073     2682     2607       75         0   319488     3971             0 syncthing
+Nov 16 10:23:33 thinkpad kernel: [   1863]     0  1863    79446      180      112       68         0   118784      563             0 upowerd
+Nov 16 10:23:33 thinkpad kernel: [   1941]  1000  1941    41954      230      133       97         0    81920       47           200 gvfsd-metadata
+Nov 16 10:23:33 thinkpad kernel: [   1943]  1000  1943  8394431       58       18       40         0    69632       74             0 chrome_crashpad
+Nov 16 10:23:33 thinkpad kernel: [   1952]  1000  1952  8392122       48       26       22         0    65536       57             0 chrome_crashpad
+Nov 16 10:23:33 thinkpad kernel: [   1975]  1000  1975  8479513       45       32       13         0   552960     3687             0 brave
+Nov 16 10:23:33 thinkpad kernel: [   1985]  1000  1985  8479510       75       63       12         0   548864     3631             0 brave
+Nov 16 10:23:33 thinkpad kernel: [   2030]  1000  2030  8479515      144       92       52         0   249856     3629             0 brave
+Nov 16 10:23:33 thinkpad kernel: [   2149]  1000  2149   207373      244      197       46         1   303104     6111             0 blueman-tray
+Nov 16 10:23:33 thinkpad kernel: [   2158]  1000  2158    40991      185      135       50         0    81920       42           200 dconf-service
+Nov 16 10:23:33 thinkpad kernel: [   2160]  1000  2160  8573328      760      654       71        35  1036288    10866           200 brave
+Nov 16 10:23:33 thinkpad kernel: [   2169]  1000  2169  8497487     1192     1029       45       118   745472     5429           200 brave
+Nov 16 10:23:33 thinkpad kernel: [   2241]  1000  2241  8494440      276      194       76         6   544768     4152           200 brave
+Nov 16 10:23:33 thinkpad kernel: [   2290]  1000  2290 320883328      908      816       50        42  1196032    11826           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2316]  1000  2316 320876977     2225     2142       62        21   913408    10650           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2317]  1000  2317 320881640     2632     2538       77        17   950272    10618           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2404]  1000  2404 321308573     2875     2759       60        56  1081344    16126           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2468]  1000  2468 320881809     3599     3535       50        14  1044480    14074           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2495]  1000  2495 320888741    28432    28317       29        86  1449984    16570           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2508]  1000  2508 320879786     3284     3229       41        14  1024000    15115           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2528]  1000  2528 320876474     1924     1801       74        49   827392     8264           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2553]  1000  2553 320879050     2240     2132       84        24  1011712    12733           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2562]  1000  2562  8512629      184      135       49         0   643072     3796           200 brave
+Nov 16 10:23:33 thinkpad kernel: [   2580]  1000  2580 320882100     9789     9716       45        28   970752     6036           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2591]  1000  2591 320876662     5861     5760       91        10   864256     5514           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2597]  1000  2597 320878141     7500     7400       39        61   946176     5711           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2611]  1000  2611 320874233      239      187       48         4   655360     4735           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   2637]  1000  2637   275756      105       46       57         2   376832     3645             0 xfce4-terminal
+Nov 16 10:23:33 thinkpad kernel: [   2657]  1000  2657     2909       66       45       21         0    65536      607             0 zsh
+Nov 16 10:23:33 thinkpad kernel: [   2739]  1000  2739     1257       19        4       15         0    49152       80             0 xclip
+Nov 16 10:23:33 thinkpad kernel: [   2960]  1000  2960 364979841      441      334       82        25   974848    12759             0 electron
+Nov 16 10:23:33 thinkpad kernel: [   2963]  1000  2963  8468922       53       23       30         0   421888     2576             0 electron
+Nov 16 10:23:33 thinkpad kernel: [   2964]  1000  2964  8468919       14        7        7         0   425984     2569             0 electron
+Nov 16 10:23:33 thinkpad kernel: [   2966]  1000  2966  8468919       13        0       13         0   225280     2575             0 electron
+Nov 16 10:23:33 thinkpad kernel: [   3069]  1000  3069  8548593      316      240       60        16   954368     8592           200 electron
+Nov 16 10:23:33 thinkpad kernel: [   3075]  1000  3075  8481335      215      150       35        30   520192     2784             0 electron
+Nov 16 10:23:33 thinkpad kernel: [   3094]  1000  3094 370837186     2100     1910      136        54  1941504    29423             0 electron
+Nov 16 10:23:33 thinkpad kernel: [   3800]  1000  3800     2799      148       71       77         0    61440      480             0 zsh
+Nov 16 10:23:33 thinkpad kernel: [   4648]     0  4648     4087      142       80       62         0    73728      192             0 systemd-userwor
+Nov 16 10:23:33 thinkpad kernel: [   4650]     0  4650     4087      169      115       54         0    69632      160             0 systemd-userwor
+Nov 16 10:23:33 thinkpad kernel: [   4663]     0  4663     4087      139       85       54         0    73728      192             0 systemd-userwor
+Nov 16 10:23:33 thinkpad kernel: [   5146]  1000  5146 321305101      688      570       77        41   827392     6093           300 brave
+Nov 16 10:23:33 thinkpad kernel: [   5390]  1000  5390     5197      119       64       55         0    77824      288             0 sudo
+Nov 16 10:23:33 thinkpad kernel: [   5392]  1000  5392     5197      104       61       43         0    69632      288             0 sudo
+Nov 16 10:23:33 thinkpad kernel: [   5393]     0  5393   217028      102       32       70         0  1269760      256             0 journalctl
+Nov 16 10:23:33 thinkpad kernel: [   5409]  1000  5409  4096675  1726169  1726111       58         0 29704192  1972384             0 mem
+Nov 16 10:23:33 thinkpad kernel: [   5410]  1000  5410 321306612    13037    12871       63       103   978944     4618           300 brave
+Nov 16 10:23:33 thinkpad kernel: oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/session-2.scope,task=mem,pid=5409,uid=1000
+Nov 16 10:23:33 thinkpad kernel: Out of memory: Killed process 5409 (mem) total-vm:16386700kB, anon-rss:6904444kB, file-rss:232kB, shmem-rss:0kB, UID:1000 pgtables:29008kB oom_score_adj:0
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad kernel: Purging GPU memory, 0 pages freed, 0 pages still pinned, 1344 pages left available.
+Nov 16 10:23:33 thinkpad systemd-journald[483]: Under memory pressure, flushing caches.
+Nov 16 10:23:34 thinkpad systemd-journald[483]: Under memory pressure, flushing caches.
