@@ -1,0 +1,222 @@
+ARG addresses 1,2,3,4,5,6,1,2,3,4,5,6
+ARG addressfile 
+ARG numaddrs 10
+ARG policy FIFO
+ARG clockbits 2
+ARG cachesize 5
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+Access: 1  MISS FirstIn ->          [1] <- Lastin  Replaced:- [Hits:0 Misses:1]
+Access: 2  MISS FirstIn ->       [1, 2] <- Lastin  Replaced:- [Hits:0 Misses:2]
+Access: 3  MISS FirstIn ->    [1, 2, 3] <- Lastin  Replaced:- [Hits:0 Misses:3]
+Access: 4  MISS FirstIn -> [1, 2, 3, 4] <- Lastin  Replaced:- [Hits:0 Misses:4]
+Access: 5  MISS FirstIn -> [1, 2, 3, 4, 5] <- Lastin  Replaced:- [Hits:0 Misses:5]
+Access: 6  MISS FirstIn -> [2, 3, 4, 5, 6] <- Lastin  Replaced:1 [Hits:0 Misses:6]
+Access: 1  MISS FirstIn -> [3, 4, 5, 6, 1] <- Lastin  Replaced:2 [Hits:0 Misses:7]
+Access: 2  MISS FirstIn -> [4, 5, 6, 1, 2] <- Lastin  Replaced:3 [Hits:0 Misses:8]
+Access: 3  MISS FirstIn -> [5, 6, 1, 2, 3] <- Lastin  Replaced:4 [Hits:0 Misses:9]
+Access: 4  MISS FirstIn -> [6, 1, 2, 3, 4] <- Lastin  Replaced:5 [Hits:0 Misses:10]
+Access: 5  MISS FirstIn -> [1, 2, 3, 4, 5] <- Lastin  Replaced:6 [Hits:0 Misses:11]
+Access: 6  MISS FirstIn -> [2, 3, 4, 5, 6] <- Lastin  Replaced:1 [Hits:0 Misses:12]
+
+FINALSTATS hits 0   misses 12   hitrate 0.00
+
+ARG addresses 1,2,3,4,5,6,1,2,3,4,5,6
+ARG addressfile 
+ARG numaddrs 10
+ARG policy LRU
+ARG clockbits 2
+ARG cachesize 5
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+Access: 1  MISS LRU ->          [1] <- MRU Replaced:- [Hits:0 Misses:1]
+Access: 2  MISS LRU ->       [1, 2] <- MRU Replaced:- [Hits:0 Misses:2]
+Access: 3  MISS LRU ->    [1, 2, 3] <- MRU Replaced:- [Hits:0 Misses:3]
+Access: 4  MISS LRU -> [1, 2, 3, 4] <- MRU Replaced:- [Hits:0 Misses:4]
+Access: 5  MISS LRU -> [1, 2, 3, 4, 5] <- MRU Replaced:- [Hits:0 Misses:5]
+Access: 6  MISS LRU -> [2, 3, 4, 5, 6] <- MRU Replaced:1 [Hits:0 Misses:6]
+Access: 1  MISS LRU -> [3, 4, 5, 6, 1] <- MRU Replaced:2 [Hits:0 Misses:7]
+Access: 2  MISS LRU -> [4, 5, 6, 1, 2] <- MRU Replaced:3 [Hits:0 Misses:8]
+Access: 3  MISS LRU -> [5, 6, 1, 2, 3] <- MRU Replaced:4 [Hits:0 Misses:9]
+Access: 4  MISS LRU -> [6, 1, 2, 3, 4] <- MRU Replaced:5 [Hits:0 Misses:10]
+Access: 5  MISS LRU -> [1, 2, 3, 4, 5] <- MRU Replaced:6 [Hits:0 Misses:11]
+Access: 6  MISS LRU -> [2, 3, 4, 5, 6] <- MRU Replaced:1 [Hits:0 Misses:12]
+
+FINALSTATS hits 0   misses 12   hitrate 0.00
+
+ARG addresses 1,2,3,4,5,6,5,6,5,6,5
+ARG addressfile 
+ARG numaddrs 10
+ARG policy MRU
+ARG clockbits 2
+ARG cachesize 5
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+Access: 1  MISS LRU ->          [1] <- MRU Replaced:- [Hits:0 Misses:1]
+Access: 2  MISS LRU ->       [1, 2] <- MRU Replaced:- [Hits:0 Misses:2]
+Access: 3  MISS LRU ->    [1, 2, 3] <- MRU Replaced:- [Hits:0 Misses:3]
+Access: 4  MISS LRU -> [1, 2, 3, 4] <- MRU Replaced:- [Hits:0 Misses:4]
+Access: 5  MISS LRU -> [1, 2, 3, 4, 5] <- MRU Replaced:- [Hits:0 Misses:5]
+Access: 6  MISS LRU -> [1, 2, 3, 4, 6] <- MRU Replaced:5 [Hits:0 Misses:6]
+Access: 5  MISS LRU -> [1, 2, 3, 4, 5] <- MRU Replaced:6 [Hits:0 Misses:7]
+Access: 6  MISS LRU -> [1, 2, 3, 4, 6] <- MRU Replaced:5 [Hits:0 Misses:8]
+Access: 5  MISS LRU -> [1, 2, 3, 4, 5] <- MRU Replaced:6 [Hits:0 Misses:9]
+Access: 6  MISS LRU -> [1, 2, 3, 4, 6] <- MRU Replaced:5 [Hits:0 Misses:10]
+Access: 5  MISS LRU -> [1, 2, 3, 4, 5] <- MRU Replaced:6 [Hits:0 Misses:11]
+
+FINALSTATS hits 0   misses 11   hitrate 0.00
+
+ARG addresses 1,2,3,4,5,6,1,2,3,4,5,6
+ARG addressfile 
+ARG numaddrs 10
+ARG policy FIFO
+ARG clockbits 2
+ARG cachesize 6
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+Access: 1  MISS FirstIn ->          [1] <- Lastin  Replaced:- [Hits:0 Misses:1]
+Access: 2  MISS FirstIn ->       [1, 2] <- Lastin  Replaced:- [Hits:0 Misses:2]
+Access: 3  MISS FirstIn ->    [1, 2, 3] <- Lastin  Replaced:- [Hits:0 Misses:3]
+Access: 4  MISS FirstIn -> [1, 2, 3, 4] <- Lastin  Replaced:- [Hits:0 Misses:4]
+Access: 5  MISS FirstIn -> [1, 2, 3, 4, 5] <- Lastin  Replaced:- [Hits:0 Misses:5]
+Access: 6  MISS FirstIn -> [1, 2, 3, 4, 5, 6] <- Lastin  Replaced:- [Hits:0 Misses:6]
+Access: 1  HIT  FirstIn -> [1, 2, 3, 4, 5, 6] <- Lastin  Replaced:- [Hits:1 Misses:6]
+Access: 2  HIT  FirstIn -> [1, 2, 3, 4, 5, 6] <- Lastin  Replaced:- [Hits:2 Misses:6]
+Access: 3  HIT  FirstIn -> [1, 2, 3, 4, 5, 6] <- Lastin  Replaced:- [Hits:3 Misses:6]
+Access: 4  HIT  FirstIn -> [1, 2, 3, 4, 5, 6] <- Lastin  Replaced:- [Hits:4 Misses:6]
+Access: 5  HIT  FirstIn -> [1, 2, 3, 4, 5, 6] <- Lastin  Replaced:- [Hits:5 Misses:6]
+Access: 6  HIT  FirstIn -> [1, 2, 3, 4, 5, 6] <- Lastin  Replaced:- [Hits:6 Misses:6]
+
+FINALSTATS hits 6   misses 6   hitrate 50.00
+
+ARG addresses 1,2,3,4,5,6,1,2,3,4,5,6
+ARG addressfile 
+ARG numaddrs 10
+ARG policy LRU
+ARG clockbits 2
+ARG cachesize 6
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+Access: 1  MISS LRU ->          [1] <- MRU Replaced:- [Hits:0 Misses:1]
+Access: 2  MISS LRU ->       [1, 2] <- MRU Replaced:- [Hits:0 Misses:2]
+Access: 3  MISS LRU ->    [1, 2, 3] <- MRU Replaced:- [Hits:0 Misses:3]
+Access: 4  MISS LRU -> [1, 2, 3, 4] <- MRU Replaced:- [Hits:0 Misses:4]
+Access: 5  MISS LRU -> [1, 2, 3, 4, 5] <- MRU Replaced:- [Hits:0 Misses:5]
+Access: 6  MISS LRU -> [1, 2, 3, 4, 5, 6] <- MRU Replaced:- [Hits:0 Misses:6]
+Access: 1  HIT  LRU -> [2, 3, 4, 5, 6, 1] <- MRU Replaced:- [Hits:1 Misses:6]
+Access: 2  HIT  LRU -> [3, 4, 5, 6, 1, 2] <- MRU Replaced:- [Hits:2 Misses:6]
+Access: 3  HIT  LRU -> [4, 5, 6, 1, 2, 3] <- MRU Replaced:- [Hits:3 Misses:6]
+Access: 4  HIT  LRU -> [5, 6, 1, 2, 3, 4] <- MRU Replaced:- [Hits:4 Misses:6]
+Access: 5  HIT  LRU -> [6, 1, 2, 3, 4, 5] <- MRU Replaced:- [Hits:5 Misses:6]
+Access: 6  HIT  LRU -> [1, 2, 3, 4, 5, 6] <- MRU Replaced:- [Hits:6 Misses:6]
+
+FINALSTATS hits 6   misses 6   hitrate 50.00
+
+ARG addresses 1,2,3,4,5,6,5,6,5,6,5,6
+ARG addressfile 
+ARG numaddrs 10
+ARG policy MRU
+ARG clockbits 2
+ARG cachesize 6
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+Access: 1  MISS LRU ->          [1] <- MRU Replaced:- [Hits:0 Misses:1]
+Access: 2  MISS LRU ->       [1, 2] <- MRU Replaced:- [Hits:0 Misses:2]
+Access: 3  MISS LRU ->    [1, 2, 3] <- MRU Replaced:- [Hits:0 Misses:3]
+Access: 4  MISS LRU -> [1, 2, 3, 4] <- MRU Replaced:- [Hits:0 Misses:4]
+Access: 5  MISS LRU -> [1, 2, 3, 4, 5] <- MRU Replaced:- [Hits:0 Misses:5]
+Access: 6  MISS LRU -> [1, 2, 3, 4, 5, 6] <- MRU Replaced:- [Hits:0 Misses:6]
+Access: 5  HIT  LRU -> [1, 2, 3, 4, 6, 5] <- MRU Replaced:- [Hits:1 Misses:6]
+Access: 6  HIT  LRU -> [1, 2, 3, 4, 5, 6] <- MRU Replaced:- [Hits:2 Misses:6]
+Access: 5  HIT  LRU -> [1, 2, 3, 4, 6, 5] <- MRU Replaced:- [Hits:3 Misses:6]
+Access: 6  HIT  LRU -> [1, 2, 3, 4, 5, 6] <- MRU Replaced:- [Hits:4 Misses:6]
+Access: 5  HIT  LRU -> [1, 2, 3, 4, 6, 5] <- MRU Replaced:- [Hits:5 Misses:6]
+Access: 6  HIT  LRU -> [1, 2, 3, 4, 5, 6] <- MRU Replaced:- [Hits:6 Misses:6]
+
+FINALSTATS hits 6   misses 6   hitrate 50.00
+
+
+
+# RANDOM
+opt
+FINALSTATS hits 32   misses 18   hitrate 64.00
+FIFO
+FINALSTATS hits 23   misses 27   hitrate 46.00
+LRU
+FINALSTATS hits 20   misses 30   hitrate 40.00
+CLOCK
+FINALSTATS hits 19   misses 31   hitrate 38.00
+UNOPT
+FINALSTATS hits 7   misses 43   hitrate 14.00
+RAND
+FINALSTATS hits 25   misses 25   hitrate 50.00
+
+
+
+
+# Locality
+OPT
+FINALSTATS hits 40   misses 10   hitrate 80.00
+LRU
+FINALSTATS hits 40   misses 10   hitrate 80.00
+CLOCK
+FINALSTATS hits 39   misses 11   hitrate 78.00
+FIFO
+FINALSTATS hits 34   misses 16   hitrate 68.00
+UNOPT
+FINALSTATS hits 11   misses 39   hitrate 22.00
+RAND
+FINALSTATS hits 37   misses 13   hitrate 74.00
+
+
+
+0x049355a8 -> 18741
+0x049355ab -> 18741
+0x1ffefffbf0 -> 33550335
+0x049355ac -> 18741
+0x1ffefffbf8 -> 33550335
+0x049355ae -> 18741
+0x1ffefffc00 -> 33550335
+0x049355b0 -> 18741
+0x1ffefffc08 -> 33550335
+0x049355b2 -> 18741
+0x1ffefffc10 -> 33550335
+0x049355b3 -> 18741
+0x1ffefffc18 -> 33550335
+0x048e4d2a -> 18660
+0x048e4c2e -> 18660
+0x048e4c31 -> 18660
+0x1ffefffc18 -> 33550335
+0x049890d0 -> 18825
+0x049890d4 -> 18825
+0x04aaccf0 -> 19116
+0x049890db -> 18825
+0x049890e1 -> 18825
+0x049890e6 -> 18825
+
+3-5 cache size
+
