@@ -50,6 +50,8 @@ int main(int argc, char *argv[]) {
     Pthread_create(&p, NULL, worker, NULL);
     signal_wait(&s);
     printf("this should print last\n");
+    pthread_mutex_destroy(&s.lock);
+    pthread_cond_destroy(&s.cond);
 
     return 0;
 }

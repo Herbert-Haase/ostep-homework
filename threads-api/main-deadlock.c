@@ -20,8 +20,10 @@ void* worker(void* arg) {
 
 int main(int argc, char *argv[]) {
     pthread_t p1, p2;
+
     Pthread_create(&p1, NULL, worker, (void *) (long long) 0);
     Pthread_create(&p2, NULL, worker, (void *) (long long) 1);
+
     Pthread_join(p1, NULL);
     Pthread_join(p2, NULL);
     return 0;
