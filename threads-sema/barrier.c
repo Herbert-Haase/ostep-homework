@@ -8,6 +8,8 @@
 // If done correctly, each child should print their "before" message
 // before either prints their "after" message. Test by adding sleep(1)
 // calls in various locations.
+sem_t s1, s2;
+size_t c1, c2;
 
 // You likely need two semaphores to do this correctly, and some
 // other integers to track things.
