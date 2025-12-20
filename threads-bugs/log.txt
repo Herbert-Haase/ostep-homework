@@ -1,0 +1,50 @@
+└── ❯ /bin/time ./vector-global-order -t -n 2 -l 10000000 -d &> log.txt
+Time: 4.75 seconds
+4.56user 2.87system 0:04.74elapsed 156%CPU (0avgtext+0avgdata 1584maxresident)k
+0inputs+8outputs (0major+107minor)pagefaults 0swaps
+
+└── ❯ /bin/time ./vector-try-wait -t -n 2 -l 10000000 -d &>> log.txt 
+Time: 16.56 seconds
+32.88user 0.00system 0:16.56elapsed 198%CPU (0avgtext+0avgdata 1740maxresident)k
+0inputs+8outputs (0major+105minor)pagefaults 0swaps
+Retries: 71081562
+
+└── ❯ /bin/time ./vector-nolock -t -n 2 -l 10000000 -d &>> log.txt 
+Time: 48.40 seconds
+93.07user 0.69system 0:48.40elapsed 193%CPU (0avgtext+0avgdata 1760maxresident)k
+0inputs+8outputs (0major+105minor)pagefaults 0swaps
+
+
+
+└── ❯ /bin/time ./vector-global-order -t -n 99 -l 100000 -d &>> log.txt
+Time: 5.12 seconds
+4.60user 6.01system 0:05.11elapsed 207%CPU (0avgtext+0avgdata 2400maxresident)k
+0inputs+8outputs (0major+305minor)pagefaults 0swaps
+
+└── ❯ /bin/time ./vector-try-wait -t -n 99 -l 100000 -d &>> log.txt
+Command terminated by signal 2
+1069.76user 3.00system 4:45.22elapsed 376%CPU (0avgtext+0avgdata 2224maxresident)k
+0inputs+0outputs (0major+303minor)pagefaults 0swaps
+Retries: 0
+
+└── ❯ /bin/time ./vector-nolock -t -n 99 -l 100000 -d &>> log.txt
+Time: 16.41 seconds
+60.24user 1.41system 0:16.41elapsed 375%CPU (0avgtext+0avgdata 2292maxresident)k
+0inputs+0outputs (0major+307minor)pagefaults 0swaps
+
+
+
+└── ❯ /bin/time ./vector-global-order -t -n 99 -l 100000 -d -p &>> log.txt
+Time: 0.24 seconds
+0.94user 0.00system 0:00.24elapsed 389%CPU (0avgtext+0avgdata 2224maxresident)k
+0inputs+8outputs (0major+305minor)pagefaults 0swaps
+
+└── ❯ /bin/time ./vector-try-wait -t -n 99 -l 100000 -d -p &>> log.txt
+Time: 0.30 seconds
+0.88user 0.01system 0:00.29elapsed 305%CPU (0avgtext+0avgdata 2224maxresident)k
+0inputs+8outputs (0major+306minor)pagefaults 0swaps
+
+└── ❯ /bin/time ./vector-nolock -t -n 99 -l 100000 -d -p &>> log.txt
+Time: 1.62 seconds
+6.05user 0.02system 0:01.61elapsed 375%CPU (0avgtext+0avgdata 2224maxresident)k
+0inputs+8outputs (0major+305minor)pagefaults 0swaps
