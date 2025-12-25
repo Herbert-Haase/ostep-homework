@@ -1,0 +1,298 @@
+5.
+OPTIONS seed 0
+OPTIONS addr 20,35,14,5
+OPTIONS addrDesc 5,-1,0
+OPTIONS seekSpeed 1
+OPTIONS rotateSpeed 1
+OPTIONS skew 0
+OPTIONS window -1
+OPTIONS policy SATF
+OPTIONS compute False
+OPTIONS graphics True
+OPTIONS zoning 30,30,30
+OPTIONS lateAddr -1
+OPTIONS lateAddrDesc 0,-1,0
+
+
+WARNING: Setting compute flag to True, as graphics are on
+
+z 0 30
+z 1 30
+z 2 30
+0 30 0
+0 30 1
+0 30 2
+0 30 3
+0 30 4
+0 30 5
+0 30 6
+0 30 7
+0 30 8
+0 30 9
+0 30 10
+0 30 11
+1 0 30 12
+1 0 30 13
+1 0 30 14
+1 0 30 15
+1 0 30 16
+1 0 30 17
+1 0 30 18
+1 0 30 19
+1 0 30 20
+1 0 30 21
+1 0 30 22
+1 0 30 23
+2 0 30 24
+2 0 30 25
+2 0 30 26
+2 0 30 27
+2 0 30 28
+2 0 30 29
+2 0 30 30
+2 0 30 31
+2 0 30 32
+2 0 30 33
+2 0 30 34
+2 0 30 35
+REQUESTS ['20', '35', '14', '5']
+
+OPTIONS seed 0
+OPTIONS addr 20,35,14,5
+OPTIONS addrDesc 5,-1,0
+OPTIONS seekSpeed 1
+OPTIONS rotateSpeed 1
+OPTIONS skew 0
+OPTIONS window -1
+OPTIONS policy SATF
+OPTIONS compute True
+OPTIONS graphics False
+OPTIONS zoning 30,30,30
+OPTIONS lateAddr -1
+OPTIONS lateAddrDesc 0,-1,0
+
+z 0 30
+z 1 30
+z 2 30
+0 30 0
+0 30 1
+0 30 2
+0 30 3
+0 30 4
+0 30 5
+0 30 6
+0 30 7
+0 30 8
+0 30 9
+0 30 10
+0 30 11
+1 0 30 12
+1 0 30 13
+1 0 30 14
+1 0 30 15
+1 0 30 16
+1 0 30 17
+1 0 30 18
+1 0 30 19
+1 0 30 20
+1 0 30 21
+1 0 30 22
+1 0 30 23
+2 0 30 24
+2 0 30 25
+2 0 30 26
+2 0 30 27
+2 0 30 28
+2 0 30 29
+2 0 30 30
+2 0 30 31
+2 0 30 32
+2 0 30 33
+2 0 30 34
+2 0 30 35
+REQUESTS ['20', '35', '14', '5']
+
+Block:  20  Seek: 40  Rotate:  5  Transfer: 30  Total:  75
+Block:  35  Seek: 40  Rotate: 20  Transfer: 30  Total:  90
+Block:  14  Seek: 40  Rotate: 20  Transfer: 30  Total:  90
+Block:   5  Seek: 40  Rotate: 20  Transfer: 30  Total:  90
+
+TOTALS      Seek:160  Rotate: 65  Transfer:120  Total: 345
+
+OPTIONS seed 0
+OPTIONS addr 20,35,14,5
+OPTIONS addrDesc 5,-1,0
+OPTIONS seekSpeed 1
+OPTIONS rotateSpeed 1
+OPTIONS skew 0
+OPTIONS window -1
+OPTIONS policy SSTF
+OPTIONS compute True
+OPTIONS graphics False
+OPTIONS zoning 30,30,30
+OPTIONS lateAddr -1
+OPTIONS lateAddrDesc 0,-1,0
+
+z 0 30
+z 1 30
+z 2 30
+0 30 0
+0 30 1
+0 30 2
+0 30 3
+0 30 4
+0 30 5
+0 30 6
+0 30 7
+0 30 8
+0 30 9
+0 30 10
+0 30 11
+1 0 30 12
+1 0 30 13
+1 0 30 14
+1 0 30 15
+1 0 30 16
+1 0 30 17
+1 0 30 18
+1 0 30 19
+1 0 30 20
+1 0 30 21
+1 0 30 22
+1 0 30 23
+2 0 30 24
+2 0 30 25
+2 0 30 26
+2 0 30 27
+2 0 30 28
+2 0 30 29
+2 0 30 30
+2 0 30 31
+2 0 30 32
+2 0 30 33
+2 0 30 34
+2 0 30 35
+REQUESTS ['20', '35', '14', '5']
+
+Block:   5  Seek:  0  Rotate:315  Transfer: 30  Total: 345
+Block:  20  Seek: 40  Rotate: 20  Transfer: 30  Total:  90
+Block:  14  Seek:  0  Rotate:150  Transfer: 30  Total: 180
+Block:  35  Seek: 40  Rotate:200  Transfer: 30  Total: 270
+
+TOTALS      Seek: 80  Rotate:685  Transfer:120  Total: 885
+
+6.
+
+SKEW >= (40/S) / 30
+
+
+8. 
+-w 1
+SATF: TOTALS      Seek:1520   Rotate:3955    Transfer:30000  Total:35475
+SSTF: TOTALS      Seek: 40    Rotate:6995    Transfer:30000  Total:37035
+FIFO: TOTALS      Seek:20960  Rotate:169165  Transfer:30000  Total:220125
+
+-w -1
+SATF: TOTALS      Seek:1520  Rotate:3955  Transfer:30000  Total:35475
+SSTF: TOTALS      Seek: 40  Rotate:6995  Transfer:30000  Total:37035
+FIFO: TOTALS      Seek:20960  Rotate:169165  Transfer:30000  Total:220125
+ 
+9.
+SATF:
+REQUESTS ['0', '33', '34', '35', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '24']
+
+Block:  34  Seek: 80  Rotate: 25  Transfer: 30  Total: 135
+Block:  35  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  24  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  25  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  26  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  27  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  28  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  29  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  30  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  31  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  32  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  33  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  34  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  35  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  24  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  33  Seek:  0  Rotate:240  Transfer: 30  Total: 270
+Block:   0  Seek: 80  Rotate:340  Transfer: 30  Total: 450
+
+TOTALS      Seek:160  Rotate:605  Transfer:510  Total:1275
+
+BSATF:
+REQUESTS ['0', '33', '34', '35', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '24']
+
+Block:  34  Seek: 80  Rotate: 25  Transfer: 30  Total: 135
+Block:  35  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  24  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  25  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  26  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  27  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  28  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  29  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  30  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  31  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  32  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  33  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  34  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  35  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  24  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  33  Seek:  0  Rotate:240  Transfer: 30  Total: 270
+Block:   0  Seek: 80  Rotate:340  Transfer: 30  Total: 450
+
+TOTALS      Seek:160  Rotate:605  Transfer:510  Total:1275
+
+SATF -w 4:
+
+REQUESTS ['0', '33', '34', '35', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '24']
+
+Block:  34  Seek: 80  Rotate: 25  Transfer: 30  Total: 135
+Block:  35  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  33  Seek:  0  Rotate:270  Transfer: 30  Total: 300
+Block:   0  Seek: 80  Rotate:340  Transfer: 30  Total: 450
+Block:  24  Seek: 80  Rotate:250  Transfer: 30  Total: 360
+Block:  25  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  26  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  27  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  28  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  29  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  30  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  31  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  32  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  33  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  34  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  35  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  24  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+
+TOTALS      Seek:240  Rotate:885  Transfer:510  Total:1635
+
+
+10.
+./disk.py -a 7,24,8,9,10 -p SATF -c 
+REQUESTS ['7', '24', '8', '9', '10']
+
+Block:   7  Seek:  0  Rotate: 15  Transfer: 30  Total:  45
+Block:   8  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:   9  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  10  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  24  Seek: 80  Rotate:310  Transfer: 30  Total: 420
+
+TOTALS      Seek: 80  Rotate:325  Transfer:150  Total: 555
+
+
+
+./disk.py -a 24,7,8,9,10 -p FIFO -c 
+REQUESTS ['24', '7', '8', '9', '10']
+
+Block:  24  Seek: 80  Rotate: 85  Transfer: 30  Total: 195
+Block:   7  Seek: 80  Rotate:100  Transfer: 30  Total: 210
+Block:   8  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:   9  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+Block:  10  Seek:  0  Rotate:  0  Transfer: 30  Total:  30
+
+TOTALS      Seek:160  Rotate:185  Transfer:150  Total: 495
+
+
+
