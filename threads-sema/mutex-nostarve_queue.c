@@ -95,8 +95,8 @@ void ns_mutex_acquire(ns_mutex_t *m, sem_t *sem)
   {
     // Queue has waiting threads - join the queue
     push(&m->q, sem);
-    Sem_post(&m->guard); // Release guard
-    Sem_wait(sem);       // Wait on personal semaphore
+    sem_post(&m->guard); // Release guard
+    sem_wait(sem);       // Wait on personal semaphore
     // When woken up, we have the mutex
   }
 }
@@ -118,7 +118,7 @@ void ns_mutex_release(ns_mutex_t *m)
     sem_post(next); // Signal the next thread
   }
 
-  Sem_post(&m->guard);
+  sem_post(&m->guard);
 }
 
 //
